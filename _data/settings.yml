@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: Biodiversity genomics
-  site_tagline: 微生物基因體多樣性研究
+  site_title: Ecological genomics of fungi and nematodes
+  site_tagline: 真菌和線蟲生態基因體學研究
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -9,14 +9,12 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Projects 研究計畫'
       url: '/'
-    - title: 'Blog'
+    - title: 'Lab news/life'
       url: '/blog/'
     - title: 'PI 主持人'
       url: '/pi'
-    - title: 'Contact'
-      url: '/contact'
 
 grid_settings:
   overlay_opacity: 0.8
@@ -152,7 +150,7 @@ font_settings:
     small_size: 16
     medium_size: 18
     large_size: 12
-    weight: 100
+    weight: 200
     letter_spacing: 0
     line_height: 1.6
   blockquote:
