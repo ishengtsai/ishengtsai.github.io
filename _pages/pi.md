@@ -34,7 +34,7 @@ Index is packed with powerful features to showcase your work:
 * 2017.05. 博後五年的心路歷程
 * 2016.08  碩士班到博士班的心路歷程
 * 2015.09 跟大學生或是要讀博士班的人一些問題及建議
-* INVESTIGATOR | 生物科學研發策進社群 訪問
+* INVESTIGATOR 生物科學研發策進社群 訪問
 
 ### 基因體學
 
@@ -44,4 +44,3 @@ Index is packed with powerful features to showcase your work:
 
 
 
-<a href="https://jekyllthemes.io/theme/index-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
