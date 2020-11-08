@@ -1,12 +1,12 @@
 ---
-title: 'Mycena 小菇'
-subtitle: 'Ecology and evolution of bioluminescent fungi'
+title: 'fungi in Taiwan'
+subtitle: '台灣關鍵真菌物種'
 date: 2020-11-08 00:00:00
 description: Amien blah blah.
-featured_image: '/images/mycena/DSC_6909.jpg'
+featured_image: '/images/20170825-DSC_0420.jpg'
 ---
 
-![](/images/mycena/merge.jpg)
+![](/images/20170825-DSC_0420.jpg)
 
 ## Demo content
 
