@@ -9,29 +9,35 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ### 2020
 
-Mycena genomes resolve the evolution of fungal bioluminescence
-HM Ke*, HH Lee, CYI Lin, YC Liu, MR Lu, JWA Hsieh, CC Chang, PH Wu, MJ Lu, JY Li, G Shang, RJH Lu, LG Nagy, PY Chen, HW Kao and IJ Tsai*  
-(Biorxiv) 10.1101/2020.05.06.079921 link
+1.*Mycena* genomes resolve the evolution of fungal bioluminescence
+HM Ke\*, HH Lee, CYI Lin, YC Liu, MR Lu, JWA Hsieh, CC Chang, PH Wu, MJ Lu, JY Li, G Shang, RJH Lu, LG Nagy, PY Chen, HW Kao and IJ Tsai\*  
+[Biorxiv](https://www.biorxiv.org/content/10.1101/2020.05.06.079921v1)
 
-Chromosome-level genome assembly of the pinewood nematode Bursaphelenchus xylophilus strain Ka4C1 
+2.Chromosome-level genome assembly of the pinewood nematode Bursaphelenchus xylophilus strain Ka4C1 
 M Dayi, S Sun, Y Maeda, R Tanaka, A Yoshida, IJ Tsai and T Kikuchi  
-Microbiology Resource Announcements 10.1128/MRA.01002-20 link
+[Microbiology Resource Announcements](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-2085-0) 
 
-Establishment of three human induced pluripotent stem cell lines from a type 1 diabetic family harboring sequence variants associated with autoimmunity
+3.Establishment of three human induced pluripotent stem cell lines from a type 1 diabetic family harboring sequence variants associated with autoimmunity
 EP Chu†, CH Lin†, CHH Cho†, IF Cheng†, TC Kuo, RY Chen, CN Liao, JC Cheng, IJ Tsai, PC Wang, SJ Chang and CN Shen
-Stem Cell Research 10.1016/j.scr.2020.102029
+**Stem Cell Research** 
 
-Assessing the rectal mucosal microbiota improves mild ulcerative colitis detection sensitivity and evaluation
+4.Assessing the rectal mucosal microbiota improves mild ulcerative colitis detection sensitivity and evaluation
 YF Lin†, CM Sung†, HM Ke, WA Liu, HY Huang, MJ Lu, IJ Tsai* and SY Hsieh*  
-Gut Microbes (in press) 
+**Gut Microbes** (in press) 
 
-Comparative transcriptomics between free-living and parasitic nematode species reveals concerted correlation
+5.Comparative transcriptomics between free-living and parasitic nematode species reveals concerted correlation
 MR Lu, CK Lai, BY Liao and IJ Tsai*  
-Genome Biology and Evolution 10.1093/gbe/evaa110 link
+[Genome Biology and Evolution](https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evaa110/5848414)
 
-DZ Hoh, YF Lin, WA Liu, HM Ke, SNM Sidique and IJ Tsai* Nest microbiota and pathogen abundance impact hatching success in sea turtle conservation (2020) Fungal Ecology 10.1016/j.funeco.2020.100964 link
+6.Nest microbiota and pathogen abundance impact hatching success in sea turtle conservation
+DZ Hoh, YF Lin, WA Liu, HM Ke, SNM Sidique and IJ Tsai\*
+Fungal Ecology 
 
-CT Yang†, GV Ulzurrun†, HC Lin, CW Chang, SA Chen, CK Lai, IJ Tsai, FC Schroeder, JE Stajich and YP Hsueh, Natural diversity in the predatory behavior facilitates the establishment of a new robust model strain for nematode-trapping fungi (2020) PNAS 10.1073/pnas.1919726117 link
+\7. Natural diversity in the predatory behavior facilitates the establishment of a new robust model strain for nematode-trapping fungi
+CT Yang†, GV Ulzurrun†, HC Lin, CW Chang, SA Chen, CK Lai, IJ Tsai, FC Schroeder, JE Stajich and YP Hsueh
+[PNAS](https://www.pnas.org/content/117/12/6762) 
+
+### 2019
 
 ZC Wu, YY Chang, QJ Lai, HA Lin, SS Tzean, RF Liou, IJ Tsai and CL Chung Soil is not a reservoir for Phellinus noxius (2019) Phytopathology 10.1094/PHYTO-08-19-0314-R link
 
