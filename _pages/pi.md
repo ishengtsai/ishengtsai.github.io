@@ -4,6 +4,7 @@ subtitle: I am an evolutionary biologist interested in using genomic and bioinfo
 
 description: Index is a minimal, fixed sidebar grid portfolio Jekyll theme.
 featured_image: /images/demo/demo-landscape.jpg
+classes: wide 
 ---
 
 ![](/images/pi/2018SMBE-768x635.png)
