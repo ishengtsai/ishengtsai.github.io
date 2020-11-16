@@ -10,8 +10,7 @@ classes: wide
 ![](/images/pi/2018SMBE-768x635.png)
 
 ### Positions held
-
-Index is packed with powerful features to showcase your work:
+   
 
 * 2019 – 中研院生物多樣性中心副研究員
 * 2015 – 2019 中研院生物多樣性中心助研究員
@@ -56,8 +55,11 @@ Index is packed with powerful features to showcase your work:
 * [2020.02. 台灣利用High throughput sequencing的現況 \[2020年ver1\]](https://ishengtsai.blogspot.com/2020/02/2020ver1.html)
 * [2017.09. 淺談基因體學研究及核心](http://ishengtsai.blogspot.tw/2017/09/blog-post.html)
 * [2015.10  做基因體的沒有在做基因體](http://ishengtsai.blogspot.tw/2015/10/blog-post.html)
+   
 
 
+
+  
 **職業性格：專家 宅男**
 
 ![](/images/pi/personalitytest.jpg)
