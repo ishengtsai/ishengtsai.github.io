@@ -38,7 +38,6 @@ Index is packed with powerful features to showcase your work:
 
 ### 實驗室科研歷程
 
-
 * [2019.10. 實驗室快五年-升等後的反思,選擇跟時間管理](https://ishengtsai.blogspot.com/2019/10/blog-post.html)
 * [2019.05. 助升副研究員的心路歷程](https://ishengtsai.blogspot.com/2019/05/pi-paper-2015.html)
 * [2019.01. 實驗室四年了- 立下原則，新的開始](https://ishengtsai.blogspot.com/2019/01/blog-post.html)
@@ -54,12 +53,12 @@ Index is packed with powerful features to showcase your work:
 
 ### 基因體學
 
-* [2020.02. 台灣利用High throughput sequencing的現況 \[2020年ver1\](https://ishengtsai.blogspot.com/2020/02/2020ver1.html)
+* [2020.02. 台灣利用High throughput sequencing的現況 \[2020年ver1\]](https://ishengtsai.blogspot.com/2020/02/2020ver1.html)
 * [2017.09. 淺談基因體學研究及核心](http://ishengtsai.blogspot.tw/2017/09/blog-post.html)
 * [2015.10  做基因體的沒有在做基因體](http://ishengtsai.blogspot.tw/2015/10/blog-post.html)
 
 
 **職業性格：專家 宅男**
 
-![](personalitytest.jpg)
+![](/images/pi/personalitytest.jpg)
 
