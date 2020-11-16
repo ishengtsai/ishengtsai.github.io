@@ -16,86 +16,85 @@ featured_image: /images/demo/demo-landscape.jpg
 ## 2020
 
 [*Mycena* genomes resolve the evolution of fungal bioluminescence](https://www.biorxiv.org/content/10.1101/2020.05.06.079921v1)  
-<u>HM Ke<u>\*, <u>HH Lee<u>, <u>CYI Lin<u>, <u>YC Liu<u>, <u>MR Lu<u>, JWA Hsieh, CC Chang, PH Wu, MJ Lu, JY Li, G Shang, RJH Lu, LG Nagy, PY Chen, HW Kao and <u>IJ Tsai<u>\*  
+HM Ke\*, HH Lee, CYI Lin, YC Liu, MR Lu, JWA Hsieh, CC Chang, PH Wu, MJ Lu, JY Li, G Shang, RJH Lu, LG Nagy, PY Chen, HW Kao and IJ Tsai\*  
 *Biorxiv*
 
 [Chromosome-level genome assembly of the pinewood nematode Bursaphelenchus xylophilus strain Ka4C1](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-2085-0)  
-M Dayi, S Sun, Y Maeda, R Tanaka, A Yoshida, <u>IJ Tsai<u> and T Kikuchi  
+M Dayi, S Sun, Y Maeda, R Tanaka, A Yoshida, IJ Tsai and T Kikuchi  
 **Microbiology Resource Announcements**
 
 [Establishment of three human induced pluripotent stem cell lines from a type 1 diabetic family harboring sequence variants associated with autoimmunity](https://www.sciencedirect.com/science/article/pii/S1873506120303305)  
-EP Chu†, CH Lin†, CHH Cho†, IF Cheng†, TC Kuo, RY Chen, CN Liao, JC Cheng, <u>IJ Tsai<u>, PC Wang, SJ Chang and CN Shen  
+EP Chu†, CH Lin†, CHH Cho†, IF Cheng†, TC Kuo, RY Chen, CN Liao, JC Cheng, IJ Tsai, PC Wang, SJ Chang and CN Shen  
 **Stem Cell Research**
 
 **Assessing the rectal mucosal microbiota improves mild ulcerative colitis detection sensitivity and evaluation**  
-<u>YF Lin<u>†, CM Sung†, <u>HM Ke<u>, <u>WA Liu<u>, HY Huang, MJ Lu, <u>IJ Tsai<u>* and SY Hsieh*  
+YF Lin†, CM Sung†, HM Ke, WA Liu, HY Huang, MJ Lu, IJ Tsai* and SY Hsieh*  
 **Gut Microbes** (in press) 
 
 [Comparative transcriptomics between free-living and parasitic nematode species reveals concerted correlation](https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evaa110/5848414)  
-<u>MR Lu<u>, <u>CK Lai<u>, BY Liao and <u>IJ Tsai<u>*   
+MR Lu, CK Lai, BY Liao and IJ Tsai*   
 **Genome Biology and Evolution**
 
 Nest microbiota and pathogen abundance impact hatching success in sea turtle conservation  
-<u>DZ Hoh<u>, <u>YF Lin<u>, <u>WA Liu<u>, <u>HM Ke<u>, SNM Sidique and <u>IJ Tsai<u>\*  
+DZ Hoh, YF Lin, WA Liu, HM Ke, SNM Sidique and IJ Tsai\*  
 **Fungal Ecology**
 
 [Natural diversity in the predatory behavior facilitates the establishment of a new robust model strain for nematode-trapping fungi](https://www.pnas.org/content/117/12/6762)  
-CT Yang†, GV Ulzurrun†, HC Lin, CW Chang, SA Chen, <u>CK Lai<u>, <u>IJ Tsai<u>, FC Schroeder, JE Stajich and YP Hsueh  
+CT Yang†, GV Ulzurrun†, HC Lin, CW Chang, SA Chen, CK Lai, IJ Tsai, FC Schroeder, JE Stajich and YP Hsueh  
 **PNAS**
 
 
 ## 2019
 
 [Soil is not a reservoir for Phellinus noxius](https://apsjournals.apsnet.org/doi/10.1094/PHYTO-08-19-0314-R)  
-ZC Wu, YY Chang, QJ Lai, HA Lin, SS Tzean, RF Liou, <u>IJ Tsai<u> and CL Chung   
+ZC Wu, YY Chang, QJ Lai, HA Lin, SS Tzean, RF Liou, IJ Tsai and CL Chung   
 *Phytopathology*
 
 [Evidence of extensive intraspecific noncoding reshuffling in a 169-kb mitochondrial genome of a basidiomycetous fungus Genome Biology and Evolution](https://academic.oup.com/gbe/article/11/10/2774/5550335)  
-HH Lee, HM Ke, CYI Lin, TJ Lee, CL Chung and <u>IJ Tsai<u>  
+HH Lee, HM Ke, CYI Lin, TJ Lee, CL Chung and IJ Tsai  
 **Genome Biology and Evolution**
 
 [Sequential changes in the host gut Microbiota during Infection with the intestinal parasitic nematode Strongyloides venezuelensis](https://www.frontiersin.org/articles/10.3389/fcimb.2019.00217/full)  
-T Afrin, K Murase, A Konosu, VL Hunt, M Bligh, Y Maeda, A Hino, H Maruyama, <u>IJ Tsai<u> and T Kikuchi  
+T Afrin, K Murase, A Konosu, VL Hunt, M Bligh, Y Maeda, A Hino, H Maruyama, IJ Tsai and T Kikuchi  
 **Frontier Cell. Infect. Microbiol**  
 
 [Predicting clinical outcomes of cirrhosis patients with hepatic encephalopathy from fecal microbiome](https://linkinghub.elsevier.com/retrieve/pii/S2352-345X(19)30047-5)  
-CM Sung†, <u>YF Lin<u>†, KF Chen†, <u>HM Ke<u>, CC Wu, HY Huang, YN Gong, WS Tsai, JF You, MJ Lu, HT Cheng, <u>IJ Tsai<u>* and SY Hsieh*  
+CM Sung†, YF Lin†, KF Chen†, HM Ke, CC Wu, HY Huang, YN Gong, WS Tsai, JF You, MJ Lu, HT Cheng, IJ Tsai* and SY Hsieh*  
 **Cellular and Molecular Gastroenterology and Hepatology**
 
 [Stage-specific transcriptome of Bursaphelenchus xylophilus reveals temporal regulation of effector genes and roles of the dauer-like stages in the lifecycle](https://www.nature.com/articles/s41598-019-42570-7)
-SE Tanaka, M Dayi, Y Maeda, <u>IJ Tsai<u>, R Tanaka, M Bligh, Y Takeuchi-Kaneko, K Fukuda, N Kanzaki and T Kikuchi 
+SE Tanaka, M Dayi, Y Maeda, IJ Tsai, R Tanaka, M Bligh, Y Takeuchi-Kaneko, K Fukuda, N Kanzaki and T Kikuchi 
 **Scientific Reports**
 
 [Structure and Diversity of Soil Bacterial Communities in Offshore Islands](https://www.nature.com/articles/s41598-019-41170-9)  
-YT Lin, <u>YF Lin<u>, <u>IJ Tsai<u>, EH Chang, SHao Jien, YJu Lin & CY Chiu   
+YT Lin, YF Lin, IJ Tsai, EH Chang, SHao Jien, YJu Lin & CY Chiu   
 **Scientific Report**
 
 [Blast fungal genomes show frequent chromosomal changes, gene gains and losses, and effector gene turnover](https://academic.oup.com/mbe/article/36/6/1148/5369728)   
-LBG Luciano, <u>IJ Tsai<u>, I Chuma, Y Tosa, YH Chen, JY Li, MY Li, MJ Lu, H Nakayashiki and WH Li    
+LBG Luciano, IJ Tsai, I Chuma, Y Tosa, YH Chen, JY Li, MY Li, MJ Lu, H Nakayashiki and WH Li    
 **Molecular Biology Evolution**
 
 [Stout camphor tree genome fills gaps in understanding of flowering plant genome evolution](https://www.nature.com/articles/s41477-018-0337-0)  
-SM Chaw†, <u>YC Liu<u>, HY Wang, YW Wu, CI Lin, CS Wu, <u>HM Ke<u>, LY Chang, CY Hsu, HT Yang, E Sudianto, MH Hsu, KP Wu, NN Wang, J Leebens-Mack, and <u>IJ Tsai<u>†  
-**Nature Plants**
-
+SM Chaw†, YC Liu, HY Wang, YW Wu, CI Lin, CS Wu, HM Ke, LY Chang, CY Hsu, HT Yang, E Sudianto, MH Hsu, KP Wu, NN Wang, J Leebens-Mack, and IJ Tsai†  
+**Nature Plants**   
 [中研院：搶救國寶牛樟！ 牛樟全基因體定序重寫植物族譜](https://www.sinica.edu.tw/ch/news/6130)   
 [中央社：國寶牛樟基因體定序解碼 可望用於復育](https://www.cna.com.tw/news/ahel/201901220217.aspx)  
+    
    
-
-
-
-
+   
+   
+   
 ## Selected publications before 2019
 
 
 ### Parasite genomics
 
 [Comparative genomics of the major parasitic worms](https://www.nature.com/articles/s41588-018-0262-1)  
-International Helminth Genomes Consortium (including <u>IJ Tsai<u>, <u>TH Kuo<u>, <u>HM Ke<u> and <u>TJ Lee<u>), A Coghlan, M Mitreva and M Berriman   
+International Helminth Genomes Consortium (including IJ Tsai, TH Kuo, HM Ke and TJ Lee), A Coghlan, M Mitreva and M Berriman   
 **Nature Genetics**
 
 [Discovery, biology and genome of *Caenorhabditis inopinata*, a sibling of *C. elegans*](https://www.nature.com/articles/s41467-018-05712-5)  
-N Kanzaki†, <u>IJ Tsai<u>†, R Tanaka†, VL Hunt†, <u>D Liu<u>, K Tsuyama, Y Maeda, S Namai, R Kumagai, A Tracey, N Holroyd, SR Doyle, GC Woodruff, K Murase, H Kitazume, C Chai,  A Akagi, O Panda, HM Ke, FC Schroeder, J Wang, M Berriman, PW Sternberg, A Sugimoto and T Kikuchi   
+N Kanzaki†, IJ Tsai†, R Tanaka†, VL Hunt†, D Liu, K Tsuyama, Y Maeda, S Namai, R Kumagai, A Tracey, N Holroyd, SR Doyle, GC Woodruff, K Murase, H Kitazume, C Chai,  A Akagi, O Panda, HM Ke, FC Schroeder, J Wang, M Berriman, PW Sternberg, A Sugimoto and T Kikuchi   
 **Nature Communications**
 
 [中研院：解開線蟲模式物種身世之謎！發現秀麗隱桿線蟲的近緣種](https://newsletter.sinica.edu.tw/%E8%A7%A3%E9%96%8B%E7%B7%9A%E8%9F%B2%E6%A8%A1%E5%BC%8F%E7%89%A9%E7%A8%AE%E8%BA%AB%E4%B8%96%E4%B9%8B%E8%AC%8E%EF%BC%81%E7%99%BC%E7%8F%BE%E7%A7%80%E9%BA%97%E9%9A%B1%E6%A1%BF%E7%B7%9A%E8%9F%B2%E7%9A%84/)  
@@ -103,7 +102,7 @@ N Kanzaki†, <u>IJ Tsai<u>†, R Tanaka†, VL Hunt†, <u>D Liu<u>, K Tsuyama,
   
 
 [The Genomic Basis of Parasitism in the Strongyloides Clade 1 of Nematodes](https://www.nature.com/articles/ng.3495)  
-VL Hunt†, <u>IJ Tsai<u>†, A Coghlan†, AJ Reid†, N Holroyd, BJ Foth, A Tracey, JA Cotton, EJ Stanley, H Beasley, H Bennett, K Brooks, B Harsha, R Kajitani, A Kulkarni, D Harbecke, E Nagayasu, S Nichol, Y Ogura, MA Quail,  N  Randle,  DM Ribeiro, A Sanchez-Flores, T Hayashi,  T Itoh, DR Denver,  W  Grant, JD Stoltzfus, JB  Lok, H  Murayama,  J Wastling, A Streit, T Kikuchi, M Viney and M Berriman   
+VL Hunt†, IJ Tsai†, A Coghlan†, AJ Reid†, N Holroyd, BJ Foth, A Tracey, JA Cotton, EJ Stanley, H Beasley, H Bennett, K Brooks, B Harsha, R Kajitani, A Kulkarni, D Harbecke, E Nagayasu, S Nichol, Y Ogura, MA Quail,  N  Randle,  DM Ribeiro, A Sanchez-Flores, T Hayashi,  T Itoh, DR Denver,  W  Grant, JD Stoltzfus, JB  Lok, H  Murayama,  J Wastling, A Streit, T Kikuchi, M Viney and M Berriman   
 **Nature Genetics**    
 [中時：台日英學者破解線蟲基因 研發疫苗有望](https://www.chinatimes.com/realtimenews/20160202001826-260412?chdtv)   
 [BBC：英日台專家聯手破解致命寄生蟲基因密碼](https://www.bbc.com/zhongwen/trad/science/2016/02/160201_strongloydes_gene)  
@@ -111,13 +110,13 @@ VL Hunt†, <u>IJ Tsai<u>†, A Coghlan†, AJ Reid†, N Holroyd, BJ Foth, A Tr
 
 
 [Whipworm genome and dual-species transcriptome analyses provide molecular insights into an intimate host-parasite interaction](https://www.nature.com/articles/ng.3010)     
-BJ Foth†, <u>IJ Tsai<u>†, AJ Reid†, AJ Bancroft†, S Nichol, A Tracey, N Holroyd, JA Cotton, EJ Stanley, M Zarowiecki, JZ Liu, T Huckvale, PJ Cooper, RK Grencis & M Berriman    
+BJ Foth†, IJ Tsai†, AJ Reid†, AJ Bancroft†, S Nichol, A Tracey, N Holroyd, JA Cotton, EJ Stanley, M Zarowiecki, JZ Liu, T Huckvale, PJ Cooper, RK Grencis & M Berriman    
 **Nature Genetics**    
 [BBC news Asia : 台灣與英國科學家聯手破解鞭蟲鑽孔基因](https://www.bbc.com/zhongwen/trad/science/2014/06/140612_whipworm_gene)
 
 
 [The genomes of four tapeworm species reveal adaptations to parasitism](https://www.nature.com/articles/nature12031)    
-<u>IJ Tsai<u>†, M Zarowiecki†, N Holroyd†, A Garciarrubio†, A Sanchez-Flores, KL Brooks, A Tracey, R J Bobes, G Fragoso, E Sciutto, M Aslett, H Beasley, X Cai, F Camicia, R Clark, M C, N De Silva, T A Day, P Deplazes, K Estrada, C Fernández, PWH Holland, J Hou, S Hu, T Huckvale, SS Hung, L Kamenetzky, JA Keane, F Kiss, U Koziol, O Lambert, K Liu, X Luo, Y Luo, N Macchiaroli, S Nichol, J Paps, Jn Parkinson, N Pouchkina-Stantcheva, N Riddiford, M Rosenzvit, G Salinas, JD Wasmuth, M Zamanian, Y Zheng, The Taenia solium Genome Consortium, J Cai, X Soberón, PD Olson, JP Laclette, K Brehm and M Berriman.     
+IJ Tsai†, M Zarowiecki†, N Holroyd†, A Garciarrubio†, A Sanchez-Flores, KL Brooks, A Tracey, R J Bobes, G Fragoso, E Sciutto, M Aslett, H Beasley, X Cai, F Camicia, R Clark, M C, N De Silva, T A Day, P Deplazes, K Estrada, C Fernández, PWH Holland, J Hou, S Hu, T Huckvale, SS Hung, L Kamenetzky, JA Keane, F Kiss, U Koziol, O Lambert, K Liu, X Luo, Y Luo, N Macchiaroli, S Nichol, J Paps, Jn Parkinson, N Pouchkina-Stantcheva, N Riddiford, M Rosenzvit, G Salinas, JD Wasmuth, M Zamanian, Y Zheng, The Taenia solium Genome Consortium, J Cai, X Soberón, PD Olson, JP Laclette, K Brehm and M Berriman.     
 **Nature**    
 1.[pansci: 基因體解析顯露絛蟲治療新策略](https://pansci.asia/archives/38292)  
 2.[BBC news Asia : 抗癌藥可以用來抗擊絛蟲感染](https://www.bbc.com/zhongwen/trad/science/2013/03/130314_tapeworm_gene)  
@@ -127,7 +126,7 @@ BJ Foth†, <u>IJ Tsai<u>†, AJ Reid†, AJ Bancroft†, S Nichol, A Tracey, N 
 
 
 [A systematically improved high quality genome and transcriptome of the human blood fluke Schistosoma mansoni.](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0001455)  
-AV Protasio†, <u>IJ Tsai<u>†, A Babbage, S Nichol, M Hunt, ND Silva, TJC Anderson, RC Clark, C Davidson, GP Dillon, NE Holroyd, PT LoVerde, C Lloyd, J McQuillan, G Oliveira, TD Otto, SJ Parker-Manuel, MA Quail, RA Wilson, A Zerlotini, DW Dunne and M Berriman  
+AV Protasio†, IJ Tsai†, A Babbage, S Nichol, M Hunt, ND Silva, TJC Anderson, RC Clark, C Davidson, GP Dillon, NE Holroyd, PT LoVerde, C Lloyd, J McQuillan, G Oliveira, TD Otto, SJ Parker-Manuel, MA Quail, RA Wilson, A Zerlotini, DW Dunne and M Berriman  
 **PLoS Neglected Tropical Diseases PLoS Negl Trop Dis**
 
 
@@ -135,20 +134,20 @@ AV Protasio†, <u>IJ Tsai<u>†, A Babbage, S Nichol, M Hunt, ND Silva, TJC And
 
 
 [Comparative and population genomics landscape of Phellinus noxius: a hypervariable fungus causing root rot in trees](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.14359)   
-CL Chung†, <u>TJ Lee<u>, M Akiba, HH Lee, <u>TH Kuo<u>, <u>D Liu<u>, <u>HM Ke<u>, T Yokoi, MB Roa, MJ Lu, YY Chang, PJ Ann, JN Tsai, CY Chen, SS Tzean, Y Ota, T Hattori, N Sahashi, RF Liou, T Kikuchi† and <u>IJ Tsai<u>†   
+CL Chung†, TJ Lee, M Akiba, HH Lee, TH Kuo, D Liu, HM Ke, T Yokoi, MB Roa, MJ Lu, YY Chang, PJ Ann, JN Tsai, CY Chen, SS Tzean, Y Ota, T Hattori, N Sahashi, RF Liou, T Kikuchi† and IJ Tsai†   
 **Molecular Ecology**   
 [解密樹木褐根病 ─ 有害木層孔菌基因體發表](http://www.ppm.ntu.edu.tw/zh/news/article/86)
 
 [Population genomics of domestic and wild yeasts](https://www.nature.com/articles/nature07743)    
-G Liti, DM Carter, AM Moses, J Warringer, L Parts, SA James, RP Davey, IN Roberts, A Burt, V Koufopanou, <u>IJ Tsai<u>, CM Bergman, D Bensasson, MJT O’Kelly, A Oudenaarden, DBH Barton, E Bailes, AN Nguyen, M Jones, MA Quail, I Goodhead, S Sims, F Smith, A Blomberg, R Durbin & EJ Louis    
+G Liti, DM Carter, AM Moses, J Warringer, L Parts, SA James, RP Davey, IN Roberts, A Burt, V Koufopanou, IJ Tsai, CM Bergman, D Bensasson, MJT O’Kelly, A Oudenaarden, DBH Barton, E Bailes, AN Nguyen, M Jones, MA Quail, I Goodhead, S Sims, F Smith, A Blomberg, R Durbin & EJ Louis    
 **Nature**
 
 [Conservation of recombination hotspots in yeast](https://www.pnas.org/content/107/17/7847)   
-<u>IJ Tsai<u>, A Burt and V Koufopanou    
+IJ Tsai, A Burt and V Koufopanou    
 **PNAS**
 
 [Population genomics of the wild yeast *Saccharomyces paradoxus*: Quantifying the life cycle](https://www.pnas.org/content/105/12/4957)   
-<u>IJ Tsai<u>, D Bensasson, A Burt and V Koufopanou   
+IJ Tsai, D Bensasson, A Burt and V Koufopanou   
 **PNAS** 
 
 
@@ -157,15 +156,15 @@ G Liti, DM Carter, AM Moses, J Warringer, L Parts, SA James, RP Davey, IN Robert
 
 
 [Inferring synteny between genome assemblies: a systematic evaluation](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2026-4)    
-D Liu, M Hunt and <u>IJ Tsai<u>   
+D Liu, M Hunt and IJ Tsai   
 **BMC Bioinformatics**
 
 [Post-assembly genome- improvement from contigs to annotated genomes](https://www.nature.com/articles/nprot.2012.068)    
-MT Swain, <u>IJ Tsai<u>, SA Assefa, C Newbold, M Berriman and TD Otto    
+MT Swain, IJ Tsai, SA Assefa, C Newbold, M Berriman and TD Otto    
 **Nature Protocols**
 
 [Improving draft assemblies by iterative mapping and assembly of short reads to eliminate gaps](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2010-11-4-r41)    
-<u>IJ Tsai<u>, TD Otto and M Berriman.     
+IJ Tsai, TD Otto and M Berriman.     
 **Genome Biology**
 
 

@@ -2,9 +2,13 @@
 title: Research 研究方向
 subtitle: 我們是一個藉由比較物種或個體間基因體 (genome)的差異，探討物種遺傳演化的實驗室。
 description: Index is a minimal, fixed sidebar grid portfolio Jekyll theme.
-featured_image: /images/researchdirection/wordart.png
+featured_image: /images/researchdirection/wordart.jpeg 
 classes: wide 
 ---
+
+![](/images/researchdirection/wordart.jpeg)
+
+
 
 研究內容為分析第二或第三世代定序技術 (Second/Third generation sequencing) 產生的巨量基因體資訊來做物種間的比較及族群分析。研究材料著重於醫學，林業，農業，畜牧業，及台灣生態環境上有重要地位的真菌及線蟲。主要研究方向如下：
 * 台灣及亞洲植病相關的病原體（線蟲及真菌）基因體研究   
