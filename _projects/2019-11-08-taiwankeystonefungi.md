@@ -2,7 +2,7 @@
 title: 'fungi in Taiwan'
 subtitle: '台灣關鍵真菌物種'
 date: 2020-11-08 00:00:00
-description: Amien blah blah.
+description: Identify keystone fungi!
 featured_image: '/images/20170825-DSC_0420.jpg'
 ---
 

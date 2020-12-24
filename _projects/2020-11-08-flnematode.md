@@ -2,7 +2,7 @@
 title: 'Free living nematodes 線蟲'
 subtitle: 'Ecolgoy and evolution of free-living nematodes'
 date: 2020-11-08 00:00:00
-description: Amien blah blah.
+description: Freeliving vs. Parasitic.
 featured_image: '/images/flnematode/PF1_3967.JPG'
 ---
 
