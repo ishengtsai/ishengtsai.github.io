@@ -15,6 +15,8 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ## 2020
 
+
+![](/images/mycena/49.cover-source.jpg)
 [*Mycena* genomes resolve the evolution of fungal bioluminescence](https://www.biorxiv.org/content/10.1101/2020.05.06.079921v1)  
 HM Ke\*, HH Lee, CYI Lin, YC Liu, MR Lu, JWA Hsieh, CC Chang, PH Wu, MJ Lu, JY Li, G Shang, RJH Lu, LG Nagy, PY Chen, HW Kao and IJ Tsai\*  
 *Biorxiv*
