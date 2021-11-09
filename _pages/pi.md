@@ -33,7 +33,7 @@ classes: wide
 
 ### 求學歷程
 
-* [2020.05.如何寫好一篇Paper](https://ishengtsai.blogspot.com/2020/05/paper.html)
+* [2020.05. 如何寫好一篇Paper](https://ishengtsai.blogspot.com/2020/05/paper.html)
 * [2019.10. 如何有效率的讀期刊論文/Paper](https://ishengtsai.blogspot.com/2019/08/blog-post.html)
 * [2018.10. 參加2018京都科技與社會論壇後感想 – I – 與諾貝爾獎得主跟專家們的討論](https://ishengtsai.blogspot.com/2018/10/2018-i.html)
 * [2017.09. \[guest post\] 生命科學院畢業碩士的心路歷程](http://ishengtsai.blogspot.tw/2017/09/guest-post_30.html)
@@ -61,10 +61,11 @@ classes: wide
 * [2015.03  當PI 的第一篇](http://ishengtsai.blogspot.tw/2015/02/pi.html)
 
 
-### 基因體學
+### 基因體學 / 科普
 
 * [2021.03. 基因體學裡的愛恨情仇 - 你所不知道的大航海時代。我們該何去何從?](https://ishengtsai.blogspot.com/2021/03/blog-post.html)
 * [2020.02. 台灣利用High throughput sequencing的現況 \[2020年ver1\]](https://ishengtsai.blogspot.com/2020/02/2020ver1.html)
+* [2017.10. 多樣性決定味覺豐富度 釀酒酵母的「萬年傳統全新感受」?](https://e-info.org.tw/node/208177)
 * [2017.09. 淺談基因體學研究及核心](http://ishengtsai.blogspot.tw/2017/09/blog-post.html)
 * [2015.10  做基因體的沒有在做基因體](http://ishengtsai.blogspot.tw/2015/10/blog-post.html)
    

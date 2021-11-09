@@ -12,7 +12,12 @@ featured_image: /images/20150406-DSC_0582.jpg
 
 [![](/images/publications/googlescholaricon.png)](https://scholar.google.co.uk/citations?user=KrwB_TIAAAAJ)
 
+
 ## 2021
+
+[Deep sampling of ancestral genetic diversity reveals *Saccharomyces cerevisiae* pre-domestication life histories](https://www.biorxiv.org/content/10.1101/2021.09.07.459046v1)  
+TJ Lee, YC Liu, WA Liu, YF Lin, HH Lee, HM Ke, JP Huang, MJ Lu, CL Hsieh, KF Chung, G Liti and IJ Tsai
+*Biorxiv*
 
 
 ## 2020
@@ -20,7 +25,7 @@ featured_image: /images/20150406-DSC_0582.jpg
 
 ![](/images/mycena/49.cover-source.jpg)
  
-[*Mycena* genomes resolve the evolution of fungal bioluminescence](https://www.biorxiv.org/content/10.1101/2020.05.06.079921v1)  
+[*Mycena* genomes resolve the evolution of fungal bioluminescence](https://www.pnas.org/content/117/49/31267)  
 HM Ke\*, HH Lee, CYI Lin, YC Liu, MR Lu, JWA Hsieh, CC Chang, PH Wu, MJ Lu, JY Li, G Shang, RJH Lu, LG Nagy, PY Chen, HW Kao and IJ Tsai\*  
 *Biorxiv*
 
