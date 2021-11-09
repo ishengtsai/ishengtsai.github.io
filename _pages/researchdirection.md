@@ -6,7 +6,7 @@ featured_image: /images/lab_banner.jpg
 classes: wide 
 ---
 
-![](/images/lab_banner.jpg)
+![](/images/20190925-DSC_4529.jpg)
 
 
 
