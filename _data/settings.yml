@@ -1,7 +1,7 @@
 basic_settings:
-  site_title: Ecological genomics of fungi and nematodes
-  site_tagline: 真菌和線蟲生態基因體學研究
-  favicon_image: /images/favicon.png
+  site_title: Tsai lab 
+  site_tagline: We are insterested in the ecology of evolution of fungi and nematodes; 真菌和線蟲生態基因體學研究
+  favicon_image: /images/favicon2.png
 
 header_settings:
   logo_image: 
