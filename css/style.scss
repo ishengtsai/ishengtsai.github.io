@@ -165,3 +165,16 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
 @import "_includes/_blog";
 
 
+
+
+
+// - - - - - - - - - -- - - Custom code
+
+
+.img-left {
+  float: left;
+  margin-right: 1em;
+}
+
+
+

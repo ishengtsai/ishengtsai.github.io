@@ -37,7 +37,7 @@ classes: wide
 ### Alumni
 
 1. Tzuhao Kuo \[Research Assistant 2015-2016\] – PhD candidate @ Helmholtz Centre for Infection Research
-2. Dang Liu \[GSB Masters student 2015-2017\] – PhD candidate @ Max Planck Institute for Evolutionary Anthropology
+2. Dang Liu 劉當 \[GSB Masters student 2015-2017\] – [https://dangliu.github.io/](https://dangliu.github.io/)
 3. Ivy Lin \[Research Assistant 2017-2018\] – PhD candidate @ Yale University
 
 ### Summer students
