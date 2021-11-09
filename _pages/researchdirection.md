@@ -1,12 +1,12 @@
 ---
 title: Research 研究方向
 subtitle: 我們是一個藉由比較物種或個體間基因體 (genome)的差異，探討物種遺傳演化的實驗室。
-description: Index is a minimal, fixed sidebar grid portfolio Jekyll theme.
-featured_image: /images/researchdirection/wordart.jpeg 
+description: Research direction.
+featured_image: /images/lab_banner.jpg
 classes: wide 
 ---
 
-![](/images/researchdirection/wordart.jpeg)
+![](/images/lab_banner.jpg)
 
 
 

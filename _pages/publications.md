@@ -1,16 +1,18 @@
 ---
 title: Publications 研究著作
-subtitle: 
-description: Index is a minimal, fixed sidebar grid portfolio Jekyll theme.
-featured_image: /images/demo/demo-landscape.jpg
+subtitle: Publications
+description: Publications.
+featured_image: /images/20150406-DSC_0582.jpg
 ---
 
-![](/images/publications/DSC_2860.jpg)
+![](/images/20150406-DSC_0582.jpg)
 
 
 
 
 [![](/images/publications/googlescholaricon.png)](https://scholar.google.co.uk/citations?user=KrwB_TIAAAAJ)
+
+## 2021
 
 
 ## 2020
@@ -30,9 +32,9 @@ M Dayi, S Sun, Y Maeda, R Tanaka, A Yoshida, IJ Tsai and T Kikuchi
 EP Chu†, CH Lin†, CHH Cho†, IF Cheng†, TC Kuo, RY Chen, CN Liao, JC Cheng, IJ Tsai, PC Wang, SJ Chang and CN Shen  
 **Stem Cell Research**
 
-**Assessing the rectal mucosal microbiota improves mild ulcerative colitis detection sensitivity and evaluation**  
+[The rectal mucosal but not fecal microbiota detects subclinical ulcerative colitis](https://www.tandfonline.com/doi/full/10.1080/19490976.2020.1832856)
 YF Lin†, CM Sung†, HM Ke, WA Liu, HY Huang, MJ Lu, IJ Tsai* and SY Hsieh*  
-**Gut Microbes** (in press) 
+**Gut Microbes**
 
 [Comparative transcriptomics between free-living and parasitic nematode species reveals concerted correlation](https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evaa110/5848414)  
 MR Lu, CK Lai, BY Liao and IJ Tsai*   
