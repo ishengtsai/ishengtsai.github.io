@@ -40,7 +40,7 @@ classes: wide
 * [2017.05. 博後五年的心路歷程](http://ishengtsai.blogspot.tw/2017/05/blog-post.html)
 * [2016.08  碩士班到博士班的心路歷程](http://ishengtsai.blogspot.tw/2016/08/blog-post.html)
 * [2015.09 跟大學生或是要讀博士班的人一些問題及建議](http://ishengtsai.blogspot.tw/2015/08/blog-post.html)
-* [INVESTIGATOR 生物科學研發策進社群 訪問](https://investigatortw.wordpress.com/2015/05/14/1593/)
+* [INVESTIGATOR 生物科學研發策進社群 訪問](https://investigator.tw/1593/1593-2/)
 
 ### 實驗室科研歷程
 
