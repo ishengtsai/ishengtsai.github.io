@@ -27,7 +27,7 @@ TJ Lee, YC Liu, WA Liu, YF Lin, HH Lee, HM Ke, JP Huang, MJ Lu, CL Hsieh, KF Chu
 HM Ke\*, HH Lee, CYI Lin, YC Liu, MR Lu, JWA Hsieh, CC Chang, PH Wu, MJ Lu, JY Li, G Shang, RJH Lu, LG Nagy, PY Chen, HW Kao and IJ Tsai\*  
 **PNAS**
 
-![](/images/mycena/49.cover-source.jpg)
+![](/images/mycena/49.cover-source.jpg){: .align-left}
 
 [中研院：臺灣也有發光菇！中研院追溯基因演化史 找尋蕈類發光的意義](https://www.sinica.edu.tw/ch/news/6741)   
 [中央社：蕈類為什麼會發光 中研院用台灣菇解謎](https://www.cna.com.tw/news/ait/202012150131.aspx)  
