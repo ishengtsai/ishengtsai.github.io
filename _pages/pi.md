@@ -65,7 +65,7 @@ classes: wide
 
 * [2021.03. 基因體學裡的愛恨情仇 - 你所不知道的大航海時代。我們該何去何從?](https://ishengtsai.blogspot.com/2021/03/blog-post.html)
 * [2020.02. 台灣利用High throughput sequencing的現況 \[2020年ver1\]](https://ishengtsai.blogspot.com/2020/02/2020ver1.html)
-* [2017.10. 多樣性決定味覺豐富度 釀酒酵母的「萬年傳統全新感受」?](https://e-info.org.tw/node/208177)
+* [2017.10. 多樣性決定味覺豐富度 釀酒酵母的「萬年傳統全新感受」](https://e-info.org.tw/node/208177)
 * [2017.09. 淺談基因體學研究及核心](http://ishengtsai.blogspot.tw/2017/09/blog-post.html)
 * [2015.10  做基因體的沒有在做基因體](http://ishengtsai.blogspot.tw/2015/10/blog-post.html)
    

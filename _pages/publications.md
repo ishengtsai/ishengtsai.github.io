@@ -16,18 +16,23 @@ featured_image: /images/20150406-DSC_0582.jpg
 ## 2021
 
 [Deep sampling of ancestral genetic diversity reveals *Saccharomyces cerevisiae* pre-domestication life histories](https://www.biorxiv.org/content/10.1101/2021.09.07.459046v1)  
-TJ Lee, YC Liu, WA Liu, YF Lin, HH Lee, HM Ke, JP Huang, MJ Lu, CL Hsieh, KF Chung, G Liti and IJ Tsai
+TJ Lee, YC Liu, WA Liu, YF Lin, HH Lee, HM Ke, JP Huang, MJ Lu, CL Hsieh, KF Chung, G Liti and IJ Tsai\*
 *Biorxiv*
 
 
 ## 2020
 
-
-![](/images/mycena/49.cover-source.jpg)
  
 [*Mycena* genomes resolve the evolution of fungal bioluminescence](https://www.pnas.org/content/117/49/31267)  
 HM Ke\*, HH Lee, CYI Lin, YC Liu, MR Lu, JWA Hsieh, CC Chang, PH Wu, MJ Lu, JY Li, G Shang, RJH Lu, LG Nagy, PY Chen, HW Kao and IJ Tsai\*  
-*Biorxiv*
+**PNAS**
+
+![](/images/mycena/49.cover-source.jpg)
+
+[中研院：臺灣也有發光菇！中研院追溯基因演化史 找尋蕈類發光的意義](https://www.sinica.edu.tw/ch/news/6741)   
+[中央社：蕈類為什麼會發光 中研院用台灣菇解謎](https://www.cna.com.tw/news/ait/202012150131.aspx)  
+[蘋果日報：真是台灣之「光」！中研院用台灣菇解開「野菇發光」原理　登國際期刊](https://tw.appledaily.com/life/20201215/W4TEHGALT5F6NFYLLRCP2VFPBU/)  
+   
 
 [Chromosome-level genome assembly of the pinewood nematode Bursaphelenchus xylophilus strain Ka4C1](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-2085-0)  
 M Dayi, S Sun, Y Maeda, R Tanaka, A Yoshida, IJ Tsai and T Kikuchi  
