@@ -33,6 +33,7 @@ classes: wide
 
 ### 求學歷程
 
+* [2021.11.  我（生科生)當初是如何學程式語言的-心路歷程跟想法](https://ishengtsai.blogspot.com/2021/11/blog-post_17.html)
 * [2020.05. 如何寫好一篇Paper](https://ishengtsai.blogspot.com/2020/05/paper.html)
 * [2019.10. 如何有效率的讀期刊論文/Paper](https://ishengtsai.blogspot.com/2019/08/blog-post.html)
 * [2018.10. 參加2018京都科技與社會論壇後感想 – I – 與諾貝爾獎得主跟專家們的討論](https://ishengtsai.blogspot.com/2018/10/2018-i.html)
@@ -44,14 +45,13 @@ classes: wide
 
 ### 實驗室科研歷程
 
-
+* [2021.11. 實驗室快七年了 - 小迷惘跟困境](https://ishengtsai.blogspot.com/2021/11/blog-post.html)
 * [2021.01. 實驗室六年 - 實驗室跟自己在疫情的成長](https://ishengtsai.blogspot.com/2021/01/blog-post.html)
-* [2020.10. 實驗室裡的人 - 博士後研究的旅程](https://ishengtsai.blogspot.com/2020/10/blog-post.html)
 * [2020.10. 實驗室裡的人 - 博士後研究的旅程](https://ishengtsai.blogspot.com/2020/10/blog-post.html)
 * [2019.10. 實驗室快五年-升等後的反思,選擇跟時間管理](https://ishengtsai.blogspot.com/2019/10/blog-post.html)
 * [2019.05. 助升副研究員的心路歷程](https://ishengtsai.blogspot.com/2019/05/pi-paper-2015.html)
 * [2019.01. 實驗室四年了- 立下原則，新的開始](https://ishengtsai.blogspot.com/2019/01/blog-post.html)
-* [2018.08.  一個實驗室的走向？](https://ishengtsai.blogspot.com/2018/08/blog-post.html)
+* [2018.08. 一個實驗室的走向？](https://ishengtsai.blogspot.com/2018/08/blog-post.html)
 * [2018.07. 實驗室三年半 – 好像要開始需要想升等前的OS](http://ishengtsai.blogspot.com/2018/07/os.html)
 * [2017.12. 實驗室三年了- 回台灣會後悔嗎？](http://ishengtsai.blogspot.tw/2017/12/blog-post.html)
 * [2017.01. 實驗室兩年後 – 審視自己; 老師 or 老闆？](http://ishengtsai.blogspot.tw/2017/01/or.html)
@@ -64,6 +64,7 @@ classes: wide
 ### 基因體學 / 科普
 
 * [2021.03. 基因體學裡的愛恨情仇 - 你所不知道的大航海時代。我們該何去何從?](https://ishengtsai.blogspot.com/2021/03/blog-post.html)
+* [2020.10. 深藏不露──發酵發光的臺灣真菌 by 惠棉 and I](https://www.biodiv.tw/zh_popscience-20210628102246)
 * [2020.02. 台灣利用High throughput sequencing的現況 \[2020年ver1\]](https://ishengtsai.blogspot.com/2020/02/2020ver1.html)
 * [2017.10. 多樣性決定味覺豐富度 釀酒酵母的「萬年傳統全新感受」](https://e-info.org.tw/node/208177)
 * [2017.09. 淺談基因體學研究及核心](http://ishengtsai.blogspot.tw/2017/09/blog-post.html)
