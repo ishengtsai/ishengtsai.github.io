@@ -13,11 +13,34 @@ featured_image: /images/20150406-DSC_0582.jpg
 [![](/images/publications/googlescholaricon.png)](https://scholar.google.co.uk/citations?user=KrwB_TIAAAAJ)
 
 
-## 2021
+## preprint
+
+[Genomes of keystone Mortierella species lead to better in silico prediction of soil mycobiome functions from Taiwan's offshore islands](https://www.biorxiv.org/content/10.1101/2021.12.20.473467v1)
+YF Lin\*, WA Liu, YC Liu, HH Lee, YR Lin, PY Yu, EH Chang, MJ Lu, CY Chiu and IJ Tsai\*
 
 [Deep sampling of ancestral genetic diversity reveals *Saccharomyces cerevisiae* pre-domestication life histories](https://www.biorxiv.org/content/10.1101/2021.09.07.459046v1)  
 TJ Lee, YC Liu, WA Liu, YF Lin, HH Lee, HM Ke, JP Huang, MJ Lu, CL Hsieh, KF Chung, G Liti and IJ Tsai\*
-*Biorxiv*
+
+
+
+## 2021
+
+[The brown root rot fungus Phellinus noxius affects microbial communities in different root-associated niches of Ficus trees](https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/1462-2920.15862)
+TY Liu, CH Chen, YL Yang, IJ Tsai, YN Ho, and CL Chung  	
+**Environmental Microbiology**
+
+[Understanding and using fungal bioluminescence – recent progress and future perspectives](https://www.sciencedirect.com/science/article/pii/S2452223621001267)
+HM Ke and IJ Tsai
+**Current Opinion in Green and Sustainable Chemistry**
+
+[The rectal mucosal but not fecal microbiota detects subclinical ulcerative colitis](https://www.tandfonline.com/doi/full/10.1080/19490976.2020.1832856)
+YF Lin†, CM Sung†, HM Ke, WA Liu, HY Huang, MJ Lu, IJ Tsai* and SY Hsieh*  
+**Gut Microbes**
+
+[Biogeographic Changes in Forest Soil Microbial Communities of Offshore Islands—A Case Study of Remote Islands in Taiwan](https://www.mdpi.com/1999-4907/12/1/4)
+EH Chang, IJ Tsai, SH Jien, GL Tian and CY Chiu
+**Forests**
+
 
 
 ## 2020
@@ -46,28 +69,30 @@ M Dayi, S Sun, Y Maeda, R Tanaka, A Yoshida, IJ Tsai and T Kikuchi
 EP Chu†, CH Lin†, CHH Cho†, IF Cheng†, TC Kuo, RY Chen, CN Liao, JC Cheng, IJ Tsai, PC Wang, SJ Chang and CN Shen  
 **Stem Cell Research**
 
-[The rectal mucosal but not fecal microbiota detects subclinical ulcerative colitis](https://www.tandfonline.com/doi/full/10.1080/19490976.2020.1832856)
-YF Lin†, CM Sung†, HM Ke, WA Liu, HY Huang, MJ Lu, IJ Tsai* and SY Hsieh*  
-**Gut Microbes**
 
 [Comparative transcriptomics between free-living and parasitic nematode species reveals concerted correlation](https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evaa110/5848414)  
-MR Lu, CK Lai, BY Liao and IJ Tsai*   
+MR Lu, CK Lai, BY Liao and IJ Tsai
 **Genome Biology and Evolution**
 
 [Nest microbiota and pathogen abundance impact hatching success in sea turtle conservation](https://www.sciencedirect.com/science/article/pii/S1754504820300763) 
-DZ Hoh, YF Lin, WA Liu, HM Ke, SNM Sidique and IJ Tsai\*  
+DZ Hoh, YF Lin, WA Liu, SNM Sidique and IJ Tsai  
 **Fungal Ecology**
 
 [Natural diversity in the predatory behavior facilitates the establishment of a new robust model strain for nematode-trapping fungi](https://www.pnas.org/content/117/12/6762)  
 CT Yang†, GV Ulzurrun†, HC Lin, CW Chang, SA Chen, CK Lai, IJ Tsai, FC Schroeder, JE Stajich and YP Hsueh  
 **PNAS**
 
+[Population genomics reveals genome plasticity in Paramecium bursaria](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-020-00912-2)
+YH Cheng, CFJ Liu, YH Yu, YT Jhou, IJ Tsai and JY Leu
+**BMC Biology**
+
+
 
 ## 2019
 
 [Soil is not a reservoir for Phellinus noxius](https://apsjournals.apsnet.org/doi/10.1094/PHYTO-08-19-0314-R)  
 ZC Wu, YY Chang, QJ Lai, HA Lin, SS Tzean, RF Liou, IJ Tsai and CL Chung   
-*Phytopathology*
+**Phytopathology**
 
 [Evidence of extensive intraspecific noncoding reshuffling in a 169-kb mitochondrial genome of a basidiomycetous fungus Genome Biology and Evolution](https://academic.oup.com/gbe/article/11/10/2774/5550335)  
 HH Lee, HM Ke, CYI Lin, TJ Lee, CL Chung and IJ Tsai  
