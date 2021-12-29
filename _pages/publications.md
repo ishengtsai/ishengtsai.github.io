@@ -19,7 +19,7 @@ featured_image: /images/20150406-DSC_0582.jpg
 YF Lin\*, WA Liu, YC Liu, HH Lee, YR Lin, PY Yu, EH Chang, MJ Lu, CY Chiu and IJ Tsai\*
 
 [Deep sampling of ancestral genetic diversity reveals *Saccharomyces cerevisiae* pre-domestication life histories](https://www.biorxiv.org/content/10.1101/2021.09.07.459046v1)  
-TJ Lee, YC Liu, WA Liu, YF Lin, HH Lee, HM Ke, JP Huang, MJ Lu, CL Hsieh, KF Chung, G Liti and IJ Tsai\*
+TJ Lee, YC Liu, WA Liu, YF Lin, HH Lee, HM Ke, JP Huang, MJ Lu, CL Hsieh, KF Chung, G Liti and IJ Tsai
 
 
 
