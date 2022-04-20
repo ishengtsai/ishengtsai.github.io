@@ -15,51 +15,53 @@ featured_image: /images/20150406-DSC_0582.jpg
 
 ## preprint / in press
 
-[*Fusarium solani* species complex genomes reveal bases of compartmentalisation and animal pathogenesis](https://www.biorxiv.org/content/10.1101/2022.03.22.485422v1)
-DZ Hoh, HH Lee, N Wada, WA Liu, MR Lu, HM Ke, PF Sun, LH Hsu, WH Chung, SL Tang, YL Chen, CL Chung and IJ Tsai
+[*Fusarium solani* species complex genomes reveal bases of compartmentalisation and animal pathogenesis](https://www.biorxiv.org/content/10.1101/2022.03.22.485422v1)  
+DZ Hoh, HH Lee, N Wada, WA Liu, MR Lu, HM Ke, PF Sun, LH Hsu, WH Chung, SL Tang, YL Chen, CL Chung and IJ Tsai  
 
-[Utilisation of Oxford Nanopore sequencing to generate six complete gastropod mitochondrial genomes as part of a biodiversity curriculum](https://www.biorxiv.org/content/10.1101/2022.03.24.485721v1)
+[Utilisation of Oxford Nanopore sequencing to generate six complete gastropod mitochondrial genomes as part of a biodiversity curriculum](https://www.biorxiv.org/content/10.1101/2022.03.24.485721v1)  
 FMG Mattos†, HH Lee†, YH Huang†, N Dreyer, D Jain, CL Fong, MD Vivo, YHV Wen, JK Mwihaki, HPC Tsai, YF Tsao, BKK Chan, R Machida, TY Wang, J Wang and IJ Tsai 
 
-Possible stochastic sex determination in Bursaphelenchus nematodes
-R Shinya, S Sun, M Dayi, IJ Tsai, A Miyama, AF Chen, K Hasegawa, I Antoshechkin, T Kikuchi and PW Sternberg 
+Possible stochastic sex determination in Bursaphelenchus nematodes  
+R Shinya, S Sun, M Dayi, IJ Tsai, A Miyama, AF Chen, K Hasegawa, I Antoshechkin, T Kikuchi and PW Sternberg  
 **(in press) Nature Communications**
 
-[Genomes of keystone Mortierella species lead to better in silico prediction of soil mycobiome functions from Taiwan's offshore islands](https://www.biorxiv.org/content/10.1101/2021.12.20.473467v1)
-YF Lin\*, WA Liu, YC Liu, HH Lee, YR Lin, PY Yu, EH Chang, MJ Lu, CY Chiu and IJ Tsai\*
+[Genomes of keystone Mortierella species lead to better in silico prediction of soil mycobiome functions from Taiwan's offshore islands](https://www.biorxiv.org/content/10.1101/2021.12.20.473467v1)  
+YF Lin\*, WA Liu, YC Liu, HH Lee, YR Lin, PY Yu, EH Chang, MJ Lu, CY Chiu and IJ Tsai\*  
 
 
 ## 2022
 
-[Extensive sampling of *Saccharomyces cerevisiae* in Taiwan reveals ecology and evolution of predomesticated lineages](https://genome.cshlp.org/content/early/2022/03/31/gr.276286.121.abstract)
-TJ Lee, YC Liu, WA Liu, YF Lin, HH Lee, HM Ke, JP Huang, MJ Lu, CL Hsieh, KF Chung, G Liti and IJ Tsai
+[Extensive sampling of *Saccharomyces cerevisiae* in Taiwan reveals ecology and evolution of predomesticated lineages](https://genome.cshlp.org/content/early/2022/03/31/gr.276286.121.abstract)  
+TJ Lee, YC Liu, WA Liu, YF Lin, HH Lee, HM Ke, JP Huang, MJ Lu, CL Hsieh, KF Chung, G Liti and IJ Tsai  
 **Genome Research**
 
-[Yeasts from temperate forests](https://onlinelibrary.wiley.com/doi/full/10.1002/yea.3699)
-S Mozzachiodi, FY Bai, P Baldrian, G Bell, K Boundy-Mills, P Buzzini, N Čadež, FA Cubillos, S Dashko, R Dimitrov, KJ Fisher, B Gibson, D Gouliamova, D Greig, L Heistinger, CT Hittinger, M Jecmenica, V Koufopanou, CR Landry, T Mašínová, ES Naumova, D Opulente, JJ Peña, U Petrovič, IJ Tsai, B Turchetti, P Villarreal, A Yurkov, G Liti and P Boynton
+[Yeasts from temperate forests](https://onlinelibrary.wiley.com/doi/full/10.1002/yea.3699)  
+S Mozzachiodi, FY Bai, P Baldrian, G Bell, K Boundy-Mills, P Buzzini, N Čadež, FA Cubillos, S Dashko, R Dimitrov, KJ Fisher, B Gibson, D Gouliamova, D Greig, L Heistinger, CT Hittinger, M Jecmenica, V Koufopanou, CR Landry, T Mašínová, ES Naumova, D Opulente, JJ Peña, U Petrovič, IJ Tsai, B Turchetti, P Villarreal, A Yurkov, G Liti and P Boynton  
 **Yeast**
 
-[*C. elegans* BLMP-1 controls apical epidermal cell morphology by repressing expression of mannosyltransferase bus-8 and molting signal mlt-8](https://www.sciencedirect.com/science/article/pii/S0012160622000604)
-YZ Wu, HS Jiang, HFen Han, PH Li, MR Lu, IJ Tsai and YC Wu
+[*C. elegans* BLMP-1 controls apical epidermal cell morphology by repressing expression of mannosyltransferase bus-8 and molting signal mlt-8](https://www.sciencedirect.com/science/article/pii/S0012160622000604)  
+YZ Wu, HS Jiang, HFen Han, PH Li, MR Lu, IJ Tsai and YC Wu  
+**Developmental Biology**
 
-[Understanding and using fungal bioluminescence – recent progress and future perspectives](https://www.sciencedirect.com/science/article/pii/S2452223621001267)
-HM Ke and IJ Tsai
+
+[Understanding and using fungal bioluminescence – recent progress and future perspectives](https://www.sciencedirect.com/science/article/pii/S2452223621001267)  
+HM Ke and IJ Tsai  
 **Current Opinion in Green and Sustainable Chemistry**
 
 
 
 ## 2021
 
-[The brown root rot fungus Phellinus noxius affects microbial communities in different root-associated niches of Ficus trees](https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/1462-2920.15862)
-TY Liu, CH Chen, YL Yang, IJ Tsai, YN Ho, and CL Chung
+[The brown root rot fungus Phellinus noxius affects microbial communities in different root-associated niches of Ficus trees](https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/1462-2920.15862)  
+TY Liu, CH Chen, YL Yang, IJ Tsai, YN Ho, and CL Chung  
 **Environmental Microbiology**
 
-[The rectal mucosal but not fecal microbiota detects subclinical ulcerative colitis](https://www.tandfonline.com/doi/full/10.1080/19490976.2020.1832856)
-YF Lin†, CM Sung†, HM Ke, WA Liu, HY Huang, MJ Lu, IJ Tsai* and SY Hsieh*
+[The rectal mucosal but not fecal microbiota detects subclinical ulcerative colitis](https://www.tandfonline.com/doi/full/10.1080/19490976.2020.1832856)  
+YF Lin†, CM Sung†, HM Ke, WA Liu, HY Huang, MJ Lu, IJ Tsai* and SY Hsieh*  
 **Gut Microbes**
 
-[Biogeographic Changes in Forest Soil Microbial Communities of Offshore Islands—A Case Study of Remote Islands in Taiwan](https://www.mdpi.com/1999-4907/12/1/4)
-EH Chang, IJ Tsai, SH Jien, GL Tian and CY Chiu
+[Biogeographic Changes in Forest Soil Microbial Communities of Offshore Islands—A Case Study of Remote Islands in Taiwan](https://www.mdpi.com/1999-4907/12/1/4)  
+EH Chang, IJ Tsai, SH Jien, GL Tian and CY Chiu  
 **Forests**
 
 
@@ -81,7 +83,10 @@ HM Ke\*, HH Lee, CYI Lin, YC Liu, MR Lu, JWA Hsieh, CC Chang, PH Wu, MJ Lu, JY L
 [中央社：蕈類為什麼會發光 中研院用台灣菇解謎](https://www.cna.com.tw/news/ait/202012150131.aspx)  
 [蘋果日報：真是台灣之「光」！中研院用台灣菇解開「野菇發光」原理　登國際期刊](https://tw.appledaily.com/life/20201215/W4TEHGALT5F6NFYLLRCP2VFPBU/)  
    
-
+  
+  
+  
+  
 [Chromosome-level genome assembly of the pinewood nematode Bursaphelenchus xylophilus strain Ka4C1](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-2085-0)  
 M Dayi, S Sun, Y Maeda, R Tanaka, A Yoshida, IJ Tsai and T Kikuchi  
 **Microbiology Resource Announcements**
