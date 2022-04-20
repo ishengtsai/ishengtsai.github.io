@@ -13,13 +13,38 @@ featured_image: /images/20150406-DSC_0582.jpg
 [![](/images/publications/googlescholaricon.png)](https://scholar.google.co.uk/citations?user=KrwB_TIAAAAJ)
 
 
-## preprint
+## preprint / in press
+
+[*Fusarium solani* species complex genomes reveal bases of compartmentalisation and animal pathogenesis](https://www.biorxiv.org/content/10.1101/2022.03.22.485422v1)
+DZ Hoh, HH Lee, N Wada, WA Liu, MR Lu, HM Ke, PF Sun, LH Hsu, WH Chung, SL Tang, YL Chen, CL Chung and IJ Tsai
+
+[Utilisation of Oxford Nanopore sequencing to generate six complete gastropod mitochondrial genomes as part of a biodiversity curriculum](https://www.biorxiv.org/content/10.1101/2022.03.24.485721v1)
+FMG Mattos†, HH Lee†, YH Huang†, N Dreyer, D Jain, CL Fong, MD Vivo, YHV Wen, JK 	Mwihaki, HPC Tsai, YF Tsao, BKK Chan, R Machida, TY Wang, J Wang and IJ Tsai 
+
+Possible stochastic sex determination in Bursaphelenchus nematodes
+R Shinya, S Sun, M Dayi, IJ Tsai, A Miyama, AF Chen, K Hasegawa, I Antoshechkin, T 	Kikuchi and PW Sternberg 
+**(in press) Nature Communications**
 
 [Genomes of keystone Mortierella species lead to better in silico prediction of soil mycobiome functions from Taiwan's offshore islands](https://www.biorxiv.org/content/10.1101/2021.12.20.473467v1)
 YF Lin\*, WA Liu, YC Liu, HH Lee, YR Lin, PY Yu, EH Chang, MJ Lu, CY Chiu and IJ Tsai\*
 
-[Deep sampling of ancestral genetic diversity reveals *Saccharomyces cerevisiae* pre-domestication life histories](https://www.biorxiv.org/content/10.1101/2021.09.07.459046v1)
+
+## 2022
+
+[Extensive sampling of *Saccharomyces cerevisiae* in Taiwan reveals ecology and evolution of predomesticated lineages](https://genome.cshlp.org/content/early/2022/03/31/gr.276286.121.abstract)
 TJ Lee, YC Liu, WA Liu, YF Lin, HH Lee, HM Ke, JP Huang, MJ Lu, CL Hsieh, KF Chung, G Liti and IJ Tsai
+**Genome Research**
+
+[Yeasts from temperate forests](https://onlinelibrary.wiley.com/doi/full/10.1002/yea.3699)
+S Mozzachiodi, FY Bai, P Baldrian, G Bell, K Boundy-Mills, P Buzzini, N Čadež, FA Cubillos, S Dashko, R Dimitrov, KJ Fisher, B Gibson, D Gouliamova, D Greig, L Heistinger, CT Hittinger, M Jecmenica, V Koufopanou, CR Landry, T Mašínová, ES Naumova, D Opulente, JJ Peña, U Petrovič, IJ Tsai, B Turchetti, P Villarreal, A Yurkov, G Liti and P Boynton
+**Yeast**
+
+[*C. elegans* BLMP-1 controls apical epidermal cell morphology by repressing expression of mannosyltransferase bus-8 and molting signal mlt-8](https://www.sciencedirect.com/science/article/pii/S0012160622000604)
+YZ Wu, HS Jiang, HFen Han, PH Li, MR Lu, IJ Tsai and YC Wu
+
+[Understanding and using fungal bioluminescence – recent progress and future perspectives](https://www.sciencedirect.com/science/article/pii/S2452223621001267)
+HM Ke and IJ Tsai
+**Current Opinion in Green and Sustainable Chemistry**
 
 
 
@@ -28,10 +53,6 @@ TJ Lee, YC Liu, WA Liu, YF Lin, HH Lee, HM Ke, JP Huang, MJ Lu, CL Hsieh, KF Chu
 [The brown root rot fungus Phellinus noxius affects microbial communities in different root-associated niches of Ficus trees](https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/1462-2920.15862)
 TY Liu, CH Chen, YL Yang, IJ Tsai, YN Ho, and CL Chung
 **Environmental Microbiology**
-
-[Understanding and using fungal bioluminescence – recent progress and future perspectives](https://www.sciencedirect.com/science/article/pii/S2452223621001267)
-HM Ke and IJ Tsai
-**Current Opinion in Green and Sustainable Chemistry**
 
 [The rectal mucosal but not fecal microbiota detects subclinical ulcerative colitis](https://www.tandfonline.com/doi/full/10.1080/19490976.2020.1832856)
 YF Lin†, CM Sung†, HM Ke, WA Liu, HY Huang, MJ Lu, IJ Tsai* and SY Hsieh*
