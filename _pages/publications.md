@@ -19,10 +19,10 @@ featured_image: /images/20150406-DSC_0582.jpg
 DZ Hoh, HH Lee, N Wada, WA Liu, MR Lu, HM Ke, PF Sun, LH Hsu, WH Chung, SL Tang, YL Chen, CL Chung and IJ Tsai
 
 [Utilisation of Oxford Nanopore sequencing to generate six complete gastropod mitochondrial genomes as part of a biodiversity curriculum](https://www.biorxiv.org/content/10.1101/2022.03.24.485721v1)
-FMG Mattos†, HH Lee†, YH Huang†, N Dreyer, D Jain, CL Fong, MD Vivo, YHV Wen, JK 	Mwihaki, HPC Tsai, YF Tsao, BKK Chan, R Machida, TY Wang, J Wang and IJ Tsai 
+FMG Mattos†, HH Lee†, YH Huang†, N Dreyer, D Jain, CL Fong, MD Vivo, YHV Wen, JK Mwihaki, HPC Tsai, YF Tsao, BKK Chan, R Machida, TY Wang, J Wang and IJ Tsai 
 
 Possible stochastic sex determination in Bursaphelenchus nematodes
-R Shinya, S Sun, M Dayi, IJ Tsai, A Miyama, AF Chen, K Hasegawa, I Antoshechkin, T 	Kikuchi and PW Sternberg 
+R Shinya, S Sun, M Dayi, IJ Tsai, A Miyama, AF Chen, K Hasegawa, I Antoshechkin, T Kikuchi and PW Sternberg 
 **(in press) Nature Communications**
 
 [Genomes of keystone Mortierella species lead to better in silico prediction of soil mycobiome functions from Taiwan's offshore islands](https://www.biorxiv.org/content/10.1101/2021.12.20.473467v1)
