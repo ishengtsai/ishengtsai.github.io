@@ -9,6 +9,12 @@ classes: wide
 
 ![](/images/pi/2018SMBE-768x635.png)
 
+
+
+蔡怡陞 (Isheng Jason Tsai)，[中央研究院生物多樣性研究中心](https://www.biodiv.tw/)副研究員 (Associate Research Fellow (Professor),  Biodiversity Research Center,  Academia  Sinica)。三個小孩的爸。專長為遺傳及微生物基因體學跟洗奶瓶。喜歡臺灣的人、事、物，在實驗室角落研究並追尋迷人的微生物演化史。有寫一個每年更新一次的網誌 [Do good science](https://dogoodscience.biodiv.tw/)
+
+
+
 ### Positions held
 
 
@@ -45,32 +51,30 @@ classes: wide
 
 ### 實驗室科研歷程
 
-* [2021.11. 實驗室快七年了 - 小迷惘跟困境](https://ishengtsai.blogspot.com/2021/11/blog-post.html)
-* [2021.01. 實驗室六年 - 實驗室跟自己在疫情的成長](https://ishengtsai.blogspot.com/2021/01/blog-post.html)
-* [2020.10. 實驗室裡的人 - 博士後研究的旅程](https://ishengtsai.blogspot.com/2020/10/blog-post.html)
-* [2019.10. 實驗室快五年-升等後的反思,選擇跟時間管理](https://ishengtsai.blogspot.com/2019/10/blog-post.html)
-* [2019.05. 助升副研究員的心路歷程](https://ishengtsai.blogspot.com/2019/05/pi-paper-2015.html)
-* [2019.01. 實驗室四年了- 立下原則，新的開始](https://ishengtsai.blogspot.com/2019/01/blog-post.html)
+* [2021.11. 實驗室快七年了 - 小迷惘跟困境](https://dogoodscience.biodiv.tw/2021/11/11/pi7yearstruggle/)
+* [2021.01. 實驗室六年 - 實驗室跟自己在疫情的成長](https://dogoodscience.biodiv.tw/2021/01/14/pi6yearwithcovid/)
+* [2020.10. 實驗室裡的人 - 博士後研究的旅程](https://dogoodscience.biodiv.tw/2020/10/29/postdoc/)
+* [2019.10. 實驗室快五年-升等後的反思,選擇跟時間管理](https://dogoodscience.biodiv.tw/2019/10/19/pi5year/)
+* [2019.05. 助升副研究員的心路歷程](https://dogoodscience.biodiv.tw/2019/05/08/pitenured/)
+* [2019.01. 實驗室四年了- 立下原則，新的開始](https://dogoodscience.biodiv.tw/2019/01/19/pi4year/)
 * [2018.08. 一個實驗室的走向？](https://dogoodscience.biodiv.tw/2018/08/05/pidirection/)
-* [2018.07. 實驗室三年半 – 好像要開始需要想升等前的OS](http://ishengtsai.blogspot.com/2018/07/os.html)
-* [2017.12. 實驗室三年了- 回台灣會後悔嗎？](http://ishengtsai.blogspot.tw/2017/12/blog-post.html)
-* [2017.01. 實驗室兩年後 – 審視自己; 老師 or 老闆？](http://ishengtsai.blogspot.tw/2017/01/or.html)
-* [2016.07  實驗室一年半後 – 經費與傳承](http://ishengtsai.blogspot.tw/2016/07/blog-post.html)
-* [2015.12  實驗室一年後](http://ishengtsai.blogspot.tw/2015/12/blog-post.html)
-* [2015.04  從 postdoc 變 PI 的四個月](http://ishengtsai.blogspot.tw/2015/04/postdoc-pi.html)
-* [2015.03  當PI 的第一篇](http://ishengtsai.blogspot.tw/2015/02/pi.html)
+* [2018.07. 實驗室三年半 – 好像要開始需要想升等前的OS](https://dogoodscience.biodiv.tw/2018/07/10/pi3yearandhalf/)
+* [2017.12. 實驗室三年了- 回台灣會後悔嗎？](https://dogoodscience.biodiv.tw/2017/12/16/pi3year/)
+* [2017.01. 實驗室兩年後 – 審視自己; 老師 or 老闆？](https://dogoodscience.biodiv.tw/2017/01/22/pi2year/)
+* [2016.07  實驗室一年半後 – 經費與傳承](https://dogoodscience.biodiv.tw/2016/07/18/pi1yearandhalf/)
+* [2015.12  實驗室一年後](https://dogoodscience.biodiv.tw/2015/12/28/pi1year/)
+* [2015.04  從 postdoc 變 PI 的四個月](https://dogoodscience.biodiv.tw/2015/04/26/pi4months/)
+* [2015.03  當PI 的第一篇](https://dogoodscience.biodiv.tw/2015/02/24/pilife1stday/)
 
 
 ### 基因體學 / 科普
 
+* [2022.05.熟悉的陌生人：做麵包、釀酒以外，臺灣森林無所不在的野生釀酒酵母菌](https://research.sinica.edu.tw/saccharomyces-cerevisiae-biodiversity-taiwan/) From [研之有物](https://research.sinica.edu.tw/)
 * [2021.03. 基因體學裡的愛恨情仇 - 你所不知道的大航海時代。我們該何去何從?](https://ishengtsai.blogspot.com/2021/03/blog-post.html)
 * [2020.10. 深藏不露──發酵發光的臺灣真菌 by 惠棉 and I](https://www.biodiv.tw/zh_popscience-20210628102246)
-* [2020.02. 台灣利用High throughput sequencing的現況 \[2020年ver1\]](https://ishengtsai.blogspot.com/2020/02/2020ver1.html)
 * [2017.10. 多樣性決定味覺豐富度 釀酒酵母的「萬年傳統全新感受」](https://e-info.org.tw/node/208177)
-* [2017.09. 淺談基因體學研究及核心](http://ishengtsai.blogspot.tw/2017/09/blog-post.html)
-* [2015.10  做基因體的沒有在做基因體](http://ishengtsai.blogspot.tw/2015/10/blog-post.html)
-  
-
+* [2017.09. 淺談基因體學研究及核心](https://dogoodscience.biodiv.tw/2017/09/02/genomicscoreskills/)
+* [2015.10  做基因體的沒有在做基因體](https://dogoodscience.biodiv.tw/2015/10/29/genomicstwistedintw/)
 
 
 
