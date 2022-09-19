@@ -21,24 +21,26 @@ classes: wide
 ## Current lab members
 
 1. Huei-Mien Ke \[Postdoc\]
-2. Tom Lin \[Postdoc\]
-3. Tracy Lee \[PhD candidate @ TIGP Biodiversity program\]
-4. Chen-Kuo Lai \[PhD candidate @ NTU GSB program\]
-5. Daphne Hoh \[PhD candidate @ TIGP Biodiversity program\]
-6. Payfon Sun \[PhD candidate @ TIGP Biodiversity program\]
-7. Yi-Chien Lee \[PhD candidate @ TIGP Biodiversity program\]
-8. Hsin-Han Lee \[PhD candidate @ TIGP Bioinformatics program\]
-9. Rubie Lu \[RA\]
-10. Yu-Ching Liu \[RA\]
-11. Wei-An Liu \[RA\]
-12. Micky Tsai \[dog\]
-13. Anna Ellie Bobby Tsai \[吉祥物\]
+2. Chen-Kuo Lai \[PhD candidate @ NTU GSB program\]
+3. Payfon Sun \[PhD candidate @ TIGP Biodiversity program\]
+4. Yi-Chien Lee \[PhD candidate @ TIGP Biodiversity program\]
+5. Chieh Ping [MSc student @ GSB program]
+6. Rubie Lu \[RA\]
+7. Yu-Ching Liu \[RA\]
+8. Hsiao Chen \[RA\]
+9. Micky Tsai \[dog\]
+10. Anna Ellie Bobby Tsai \[吉祥物\]
 
 ### Alumni
 
-1. Tzuhao Kuo \[Research Assistant 2015-2016\] – PhD candidate @ Helmholtz Centre for Infection Research
-2. Dang Liu 劉當 \[GSB Masters student 2015-2017\] – [https://dangliu.github.io/](https://dangliu.github.io/)
-3. Ivy Lin \[Research Assistant 2017-2018\] – PhD candidate @ Yale University
+1. Tom Lin \[Postdoc 2016-2022] - industry
+2. Daphne Hoh \[PhD @ TIGP Biodiversity program\] - Postdoc
+3. Tracy Lee \[PhD @ TIGP Biodiversity program] - traveling around the world in n days
+4. Hsin-Han Lee \[RA 2018-2021] - industry
+5. Wei-An Liu \[RA 2017-2021] - industry
+6. Tzuhao Kuo \[Research Assistant 2015-2016\] – PhD candidate @ Helmholtz Centre for Infection Research
+7. Dang Liu 劉當 \[GSB Masters student 2015-2017\] – [https://dangliu.github.io/](https://dangliu.github.io/)
+8. Ivy Lin \[Research Assistant 2017-2018\] – PhD candidate @ Yale University
 
 ### Summer students
 

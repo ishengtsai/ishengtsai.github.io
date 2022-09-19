@@ -15,21 +15,38 @@ featured_image: /images/20150406-DSC_0582.jpg
 
 ## preprint / in press
 
+
+
+[Detecting intragenic trans-splicing events with hybrid transcriptome sequencing](https://www.biorxiv.org/content/10.1101/2022.04.21.489006v1)
+YC Chen, CY Chen, TW Chiang, MH Chan, M Hsiao, HM Ke, IJ Tsai and TJ Chuang 
+
+[The Aphelenchoides genomes reveal major events of horizontal gene transfers in clade IV nematodes](https://www.biorxiv.org/content/10.1101/2022.09.13.507733v1.full)
+CK Lai, YC Lee, WA Liu, HH Lee, HM Ke, YC Liu, T Yoshiga, T Kikuchi, PJ Chen* and IJ Tsai*
+
 [*Fusarium solani* species complex genomes reveal bases of compartmentalisation and animal pathogenesis](https://www.biorxiv.org/content/10.1101/2022.03.22.485422v1)  
 DZ Hoh, HH Lee, N Wada, WA Liu, MR Lu, HM Ke, PF Sun, LH Hsu, WH Chung, SL Tang, YL Chen, CL Chung and IJ Tsai  
-
-[Utilisation of Oxford Nanopore sequencing to generate six complete gastropod mitochondrial genomes as part of a biodiversity curriculum](https://www.biorxiv.org/content/10.1101/2022.03.24.485721v1)  
-FMG Mattos†, HH Lee†, YH Huang†, N Dreyer, D Jain, CL Fong, MD Vivo, YHV Wen, JK Mwihaki, HPC Tsai, YF Tsao, BKK Chan, R Machida, TY Wang, J Wang and IJ Tsai 
-
-Possible stochastic sex determination in Bursaphelenchus nematodes  
-R Shinya, S Sun, M Dayi, IJ Tsai, A Miyama, AF Chen, K Hasegawa, I Antoshechkin, T Kikuchi and PW Sternberg  
-**(in press) Nature Communications**
 
 [Genomes of keystone Mortierella species lead to better in silico prediction of soil mycobiome functions from Taiwan's offshore islands](https://www.biorxiv.org/content/10.1101/2021.12.20.473467v1)  
 YF Lin\*, WA Liu, YC Liu, HH Lee, YR Lin, PY Yu, EH Chang, MJ Lu, CY Chiu and IJ Tsai\*  
 
 
 ## 2022
+
+[Genome assembly and evolutionary analysis of the Mandarin Duck, Aix galericulata](https://academic.oup.com/gbe/article/14/6/evac083/6594746)
+CS Ng†, CK Lai†, HM Ke, CF Chen, PC Tang, HC Cheng, WH Li* and IJ Tsai* 
+**Genome Biology and Evolution** 
+
+[The teenage years of yeast population genomics — trace history, admixing and getting wilder](https://www.sciencedirect.com/science/article/pii/S0959437X2200051X)
+IJ Tsai
+**Current Opinion in Genetics & Development**
+
+[Utilisation of Oxford Nanopore sequencing to generate six complete gastropod mitochondrial genomes as part of a biodiversity curriculum](https://www.nature.com/articles/s41598-022-14121-0)  
+FMG Mattos†, HH Lee†, YH Huang†, N Dreyer, D Jain, CL Fong, MD Vivo, YHV Wen, JK Mwihaki, HPC Tsai, YF Tsao, BKK Chan, R Machida, TY Wang, J Wang and IJ Tsai 
+**Scientific reports**
+
+[Possible stochastic sex determination in *Bursaphelenchus* nematodes](https://www.nature.com/articles/s41467-022-30173-2)
+R Shinya, S Sun, M Dayi, IJ Tsai, A Miyama, AF Chen, K Hasegawa, I Antoshechkin, T Kikuchi and PW Sternberg 
+**Nature Communications**
 
 [Extensive sampling of *Saccharomyces cerevisiae* in Taiwan reveals ecology and evolution of predomesticated lineages](https://genome.cshlp.org/content/early/2022/03/31/gr.276286.121.abstract)  
 TJ Lee, YC Liu, WA Liu, YF Lin, HH Lee, HM Ke, JP Huang, MJ Lu, CL Hsieh, KF Chung, G Liti and IJ Tsai  
@@ -82,11 +99,11 @@ HM Ke\*, HH Lee, CYI Lin, YC Liu, MR Lu, JWA Hsieh, CC Chang, PH Wu, MJ Lu, JY L
 [中研院：臺灣也有發光菇！中研院追溯基因演化史 找尋蕈類發光的意義](https://www.sinica.edu.tw/ch/news/6741)   
 [中央社：蕈類為什麼會發光 中研院用台灣菇解謎](https://www.cna.com.tw/news/ait/202012150131.aspx)  
 [蘋果日報：真是台灣之「光」！中研院用台灣菇解開「野菇發光」原理　登國際期刊](https://tw.appledaily.com/life/20201215/W4TEHGALT5F6NFYLLRCP2VFPBU/)  
-   
+
   
+
   
-  
-  
+
 [Chromosome-level genome assembly of the pinewood nematode Bursaphelenchus xylophilus strain Ka4C1](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-2085-0)  
 M Dayi, S Sun, Y Maeda, R Tanaka, A Yoshida, IJ Tsai and T Kikuchi  
 **Microbiology Resource Announcements**
@@ -150,10 +167,10 @@ SM Chaw†, YC Liu, HY Wang, YW Wu, CI Lin, CS Wu, HM Ke, LY Chang, CY Hsu, HT Y
 [中研院：搶救國寶牛樟！ 牛樟全基因體定序重寫植物族譜](https://www.sinica.edu.tw/ch/news/6130)   
 [中央社：國寶牛樟基因體定序解碼 可望用於復育](https://www.cna.com.tw/news/ahel/201901220217.aspx)  
     
+
    
-   
-   
-   
+
+
 ## Selected publications before 2019
 
 
@@ -169,14 +186,14 @@ N Kanzaki†, IJ Tsai†, R Tanaka†, VL Hunt†, D Liu, K Tsuyama, Y Maeda, S 
 
 [中研院：解開線蟲模式物種身世之謎！發現秀麗隱桿線蟲的近緣種](https://newsletter.sinica.edu.tw/%E8%A7%A3%E9%96%8B%E7%B7%9A%E8%9F%B2%E6%A8%A1%E5%BC%8F%E7%89%A9%E7%A8%AE%E8%BA%AB%E4%B8%96%E4%B9%8B%E8%AC%8E%EF%BC%81%E7%99%BC%E7%8F%BE%E7%A7%80%E9%BA%97%E9%9A%B1%E6%A1%BF%E7%B7%9A%E8%9F%B2%E7%9A%84/)  
 [Author commentry: *Caenorhabditis inopinata*: the unexpected sibling species of *C. elegans*](https://natureecoevocommunity.nature.com/posts/37637-caenorhabditis-inopinata-the-unexpected-sibling-species-of-c-elegans)  
-  
+
 
 [The Genomic Basis of Parasitism in the Strongyloides Clade 1 of Nematodes](https://www.nature.com/articles/ng.3495)  
 VL Hunt†, IJ Tsai†, A Coghlan†, AJ Reid†, N Holroyd, BJ Foth, A Tracey, JA Cotton, EJ Stanley, H Beasley, H Bennett, K Brooks, B Harsha, R Kajitani, A Kulkarni, D Harbecke, E Nagayasu, S Nichol, Y Ogura, MA Quail,  N  Randle,  DM Ribeiro, A Sanchez-Flores, T Hayashi,  T Itoh, DR Denver,  W  Grant, JD Stoltzfus, JB  Lok, H  Murayama,  J Wastling, A Streit, T Kikuchi, M Viney and M Berriman   
 **Nature Genetics**    
 [中時：台日英學者破解線蟲基因 研發疫苗有望](https://www.chinatimes.com/realtimenews/20160202001826-260412?chdtv)   
 [BBC：英日台專家聯手破解致命寄生蟲基因密碼](https://www.bbc.com/zhongwen/trad/science/2016/02/160201_strongloydes_gene)  
-  
+
 
 
 [Whipworm genome and dual-species transcriptome analyses provide molecular insights into an intimate host-parasite interaction](https://www.nature.com/articles/ng.3010)     
@@ -192,7 +209,7 @@ IJ Tsai†, M Zarowiecki†, N Holroyd†, A Garciarrubio†, A Sanchez-Flores, 
 2.[BBC news Asia : 抗癌藥可以用來抗擊絛蟲感染](https://www.bbc.com/zhongwen/trad/science/2013/03/130314_tapeworm_gene)  
 3.[BBC news: ‘Weakness mining’ for tapeworm drugs”](https://www.bbc.com/news/health-21767865)  
 4.[Reuters: Tapeworm genome points way to better drug treatments](https://www.reuters.com/article/us-tapeworm-idUSBRE92C1I820130313)  
-  
+
 
 
 [A systematically improved high quality genome and transcriptome of the human blood fluke Schistosoma mansoni.](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0001455)  
@@ -236,5 +253,4 @@ MT Swain, IJ Tsai, SA Assefa, C Newbold, M Berriman and TD Otto
 [Improving draft assemblies by iterative mapping and assembly of short reads to eliminate gaps](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2010-11-4-r41)    
 IJ Tsai, TD Otto and M Berriman.     
 **Genome Biology**
-
 
