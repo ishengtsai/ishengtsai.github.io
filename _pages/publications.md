@@ -63,7 +63,6 @@ R Shinya, S Sun, M Dayi, IJ Tsai, A Miyama, AF Chen, K Hasegawa, I Antoshechkin,
 [Extensive sampling of *Saccharomyces cerevisiae* in Taiwan reveals ecology and evolution of predomesticated lineages](https://genome.cshlp.org/content/early/2022/03/31/gr.276286.121.abstract)  
 TJ Lee, YC Liu, WA Liu, YF Lin, HH Lee, HM Ke, JP Huang, MJ Lu, CL Hsieh, KF Chung, G Liti and IJ Tsai  
 **Genome Research**  
-[自由時報：中研院研究發現 台灣是釀酒酵母的原鄉之一](https://news.ltn.com.tw/news/life/breakingnews/3931508)
 [研之有物：熟悉的陌生人：做麵包、釀酒以外，臺灣森林無所不在的野生釀酒酵母菌](https://research.sinica.edu.tw/saccharomyces-cerevisiae-biodiversity-taiwan/)
 
 
