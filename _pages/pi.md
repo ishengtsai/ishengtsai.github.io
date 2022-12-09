@@ -17,7 +17,7 @@ classes: wide
 
 ### Positions held
 
-
+* 2022 - 中研院生物多樣性中心研究員
 * 2019 – 中研院生物多樣性中心副研究員
 * 2015 – 2019 中研院生物多樣性中心助研究員
 * 2015 – 台灣大學 [基因體與系統生物學學位學程](http://gsb.lifescience.ntu.edu.tw/) 核心師資 ; 合聘副教授
@@ -29,13 +29,14 @@ classes: wide
 
 ### Other honours and positions
 
+* 2022 - Associate Editor, Yeast
 * 2020 – Associate Editor, Molecular Ecology and Molecular Ecology Resources
 * 2019 - EMBO Global investigator
 
 
 ### 開課
 
-* [2016,2018,2020  Introduction to genomics](https://introtogenomics.readthedocs.io/en/latest/)
+* [2016,2018,2020,2023  Introduction to genomics](https://introtogenomics.readthedocs.io/en/latest/)
 
 ### 求學歷程
 
@@ -51,6 +52,7 @@ classes: wide
 
 ### 實驗室科研歷程
 
+* [2022.11.  實驗室快八年了 - 接受與重新計劃](https://dogoodscience.biodiv.tw/2022/09/24/pi8yearsnew/)
 * [2021.11. 實驗室快七年了 - 小迷惘跟困境](https://dogoodscience.biodiv.tw/2021/11/11/pi7yearstruggle/)
 * [2021.01. 實驗室六年 - 實驗室跟自己在疫情的成長](https://dogoodscience.biodiv.tw/2021/01/14/pi6yearwithcovid/)
 * [2020.10. 實驗室裡的人 - 博士後研究的旅程](https://dogoodscience.biodiv.tw/2020/10/29/postdoc/)

@@ -23,14 +23,26 @@ YC Chen, CY Chen, TW Chiang, MH Chan, M Hsiao, HM Ke, IJ Tsai and TJ Chuang
 [The Aphelenchoides genomes reveal major events of horizontal gene transfers in clade IV nematodes](https://www.biorxiv.org/content/10.1101/2022.09.13.507733v1.full)
 CK Lai, YC Lee, WA Liu, HH Lee, HM Ke, YC Liu, T Yoshiga, T Kikuchi, PJ Chen* and IJ Tsai*
 
-[*Fusarium solani* species complex genomes reveal bases of compartmentalisation and animal pathogenesis](https://www.biorxiv.org/content/10.1101/2022.03.22.485422v1)  
-DZ Hoh, HH Lee, N Wada, WA Liu, MR Lu, HM Ke, PF Sun, LH Hsu, WH Chung, SL Tang, YL Chen, CL Chung and IJ Tsai  
-
 [Genomes of keystone Mortierella species lead to better in silico prediction of soil mycobiome functions from Taiwan's offshore islands](https://www.biorxiv.org/content/10.1101/2021.12.20.473467v1)  
 YF Lin\*, WA Liu, YC Liu, HH Lee, YR Lin, PY Yu, EH Chang, MJ Lu, CY Chiu and IJ Tsai\*  
 
 
 ## 2022
+
+
+
+[Investigation of asymptomatic infection of *Phellinus noxius* in herbaceous plants](https://apsjournals.apsnet.org/doi/abs/10.1094/PHYTO-08-22-0281-R)
+CY Chen, ZC Wu, TY Liu, SS Yu, JN Tsai, YC Tsai, IJ Tsaiand CL Chung
+**Phytopathology**
+
+[Translocation of fungicides and their efficacy in controlling *Phellinus noxius*, the cause of brown root rot disease](https://apsjournals.apsnet.org/doi/abs/10.1094/PDIS-06-22-1285-RE)
+TZ Liao, YH Chen, JN Tsai, C Chao, TP Huang, CF Hong, ZC Wu, IJ Tsai, HH Lee, NB Klopfenstein, MS Kim, JE Stewart, N Atibalentja, FE Brooks, P Cannon, AM Farid, T Hattori, HS Kwan, YCR Lam, Y Ota, N Sahashi, RL Schlub, LS Shuey, AMC Tang and CL Chung
+**Plant Disease**
+
+[Comparative genomic and transcriptomic analyses of trans-kingdom pathogen *Fusarium solani* species complex reveal degrees of compartmentalization](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-022-01436-7)  
+DZ Hoh, HH Lee, N Wada, WA Liu, MR Lu, HM Ke, PF Sun, LH Hsu, WH Chung, SL Tang, YL Chen, CL Chung and IJ Tsai*  
+**BMC Biology**
+[中研院訊：跨動植物界的致病菌——茄鐮孢菌複合種染色體演化和其感染海龜蛋的模式](https://newsletter.sinica.edu.tw/29271/)
 
 [Genome assembly and evolutionary analysis of the Mandarin Duck, Aix galericulata](https://academic.oup.com/gbe/article/14/6/evac083/6594746)
 CS Ng†, CK Lai†, HM Ke, CF Chen, PC Tang, HC Cheng, WH Li* and IJ Tsai* 
@@ -51,6 +63,10 @@ R Shinya, S Sun, M Dayi, IJ Tsai, A Miyama, AF Chen, K Hasegawa, I Antoshechkin,
 [Extensive sampling of *Saccharomyces cerevisiae* in Taiwan reveals ecology and evolution of predomesticated lineages](https://genome.cshlp.org/content/early/2022/03/31/gr.276286.121.abstract)  
 TJ Lee, YC Liu, WA Liu, YF Lin, HH Lee, HM Ke, JP Huang, MJ Lu, CL Hsieh, KF Chung, G Liti and IJ Tsai  
 **Genome Research**
+[自由時報：中研院研究發現 台灣是釀酒酵母的原鄉之一](https://news.ltn.com.tw/news/life/breakingnews/3931508)
+[研之有物：熟悉的陌生人：做麵包、釀酒以外，臺灣森林無所不在的野生釀酒酵母菌](https://research.sinica.edu.tw/saccharomyces-cerevisiae-biodiversity-taiwan/)
+
+
 
 [Yeasts from temperate forests](https://onlinelibrary.wiley.com/doi/full/10.1002/yea.3699)  
 S Mozzachiodi, FY Bai, P Baldrian, G Bell, K Boundy-Mills, P Buzzini, N Čadež, FA Cubillos, S Dashko, R Dimitrov, KJ Fisher, B Gibson, D Gouliamova, D Greig, L Heistinger, CT Hittinger, M Jecmenica, V Koufopanou, CR Landry, T Mašínová, ES Naumova, D Opulente, JJ Peña, U Petrovič, IJ Tsai, B Turchetti, P Villarreal, A Yurkov, G Liti and P Boynton  
