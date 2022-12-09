@@ -31,38 +31,38 @@ YF Lin\*, WA Liu, YC Liu, HH Lee, YR Lin, PY Yu, EH Chang, MJ Lu, CY Chiu and IJ
 
 
 
-[Investigation of asymptomatic infection of *Phellinus noxius* in herbaceous plants](https://apsjournals.apsnet.org/doi/abs/10.1094/PHYTO-08-22-0281-R)
-CY Chen, ZC Wu, TY Liu, SS Yu, JN Tsai, YC Tsai, IJ Tsaiand CL Chung
+[Investigation of asymptomatic infection of *Phellinus noxius* in herbaceous plants](https://apsjournals.apsnet.org/doi/abs/10.1094/PHYTO-08-22-0281-R)  
+CY Chen, ZC Wu, TY Liu, SS Yu, JN Tsai, YC Tsai, IJ Tsaiand CL Chung  
 **Phytopathology**
 
-[Translocation of fungicides and their efficacy in controlling *Phellinus noxius*, the cause of brown root rot disease](https://apsjournals.apsnet.org/doi/abs/10.1094/PDIS-06-22-1285-RE)
-TZ Liao, YH Chen, JN Tsai, C Chao, TP Huang, CF Hong, ZC Wu, IJ Tsai, HH Lee, NB Klopfenstein, MS Kim, JE Stewart, N Atibalentja, FE Brooks, P Cannon, AM Farid, T Hattori, HS Kwan, YCR Lam, Y Ota, N Sahashi, RL Schlub, LS Shuey, AMC Tang and CL Chung
+[Translocation of fungicides and their efficacy in controlling *Phellinus noxius*, the cause of brown root rot disease](https://apsjournals.apsnet.org/doi/abs/10.1094/PDIS-06-22-1285-RE)  
+TZ Liao, YH Chen, JN Tsai, C Chao, TP Huang, CF Hong, ZC Wu, IJ Tsai, HH Lee, NB Klopfenstein, MS Kim, JE Stewart, N Atibalentja, FE Brooks, P Cannon, AM Farid, T Hattori, HS Kwan, YCR Lam, Y Ota, N Sahashi, RL Schlub, LS Shuey, AMC Tang and CL Chung  
 **Plant Disease**
 
 [Comparative genomic and transcriptomic analyses of trans-kingdom pathogen *Fusarium solani* species complex reveal degrees of compartmentalization](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-022-01436-7)  
 DZ Hoh, HH Lee, N Wada, WA Liu, MR Lu, HM Ke, PF Sun, LH Hsu, WH Chung, SL Tang, YL Chen, CL Chung and IJ Tsai*  
-**BMC Biology**
+**BMC Biology**  
 [中研院訊：跨動植物界的致病菌——茄鐮孢菌複合種染色體演化和其感染海龜蛋的模式](https://newsletter.sinica.edu.tw/29271/)
 
-[Genome assembly and evolutionary analysis of the Mandarin Duck, Aix galericulata](https://academic.oup.com/gbe/article/14/6/evac083/6594746)
-CS Ng†, CK Lai†, HM Ke, CF Chen, PC Tang, HC Cheng, WH Li* and IJ Tsai* 
+[Genome assembly and evolutionary analysis of the Mandarin Duck, Aix galericulata](https://academic.oup.com/gbe/article/14/6/evac083/6594746)  
+CS Ng†, CK Lai†, HM Ke, CF Chen, PC Tang, HC Cheng, WH Li* and IJ Tsai*  
 **Genome Biology and Evolution** 
 
-[The teenage years of yeast population genomics — trace history, admixing and getting wilder](https://www.sciencedirect.com/science/article/pii/S0959437X2200051X)
-IJ Tsai
+[The teenage years of yeast population genomics — trace history, admixing and getting wilder](https://www.sciencedirect.com/science/article/pii/S0959437X2200051X)  
+IJ Tsai  
 **Current Opinion in Genetics & Development**
 
 [Utilisation of Oxford Nanopore sequencing to generate six complete gastropod mitochondrial genomes as part of a biodiversity curriculum](https://www.nature.com/articles/s41598-022-14121-0)  
-FMG Mattos†, HH Lee†, YH Huang†, N Dreyer, D Jain, CL Fong, MD Vivo, YHV Wen, JK Mwihaki, HPC Tsai, YF Tsao, BKK Chan, R Machida, TY Wang, J Wang and IJ Tsai 
+FMG Mattos†, HH Lee†, YH Huang†, N Dreyer, D Jain, CL Fong, MD Vivo, YHV Wen, JK Mwihaki, HPC Tsai, YF Tsao, BKK Chan, R Machida, TY Wang, J Wang and IJ Tsai  
 **Scientific reports**
 
-[Possible stochastic sex determination in *Bursaphelenchus* nematodes](https://www.nature.com/articles/s41467-022-30173-2)
-R Shinya, S Sun, M Dayi, IJ Tsai, A Miyama, AF Chen, K Hasegawa, I Antoshechkin, T Kikuchi and PW Sternberg 
+[Possible stochastic sex determination in *Bursaphelenchus* nematodes](https://www.nature.com/articles/s41467-022-30173-2)  
+R Shinya, S Sun, M Dayi, IJ Tsai, A Miyama, AF Chen, K Hasegawa, I Antoshechkin, T Kikuchi and PW Sternberg  
 **Nature Communications**
 
 [Extensive sampling of *Saccharomyces cerevisiae* in Taiwan reveals ecology and evolution of predomesticated lineages](https://genome.cshlp.org/content/early/2022/03/31/gr.276286.121.abstract)  
 TJ Lee, YC Liu, WA Liu, YF Lin, HH Lee, HM Ke, JP Huang, MJ Lu, CL Hsieh, KF Chung, G Liti and IJ Tsai  
-**Genome Research**
+**Genome Research**  
 [自由時報：中研院研究發現 台灣是釀酒酵母的原鄉之一](https://news.ltn.com.tw/news/life/breakingnews/3931508)
 [研之有物：熟悉的陌生人：做麵包、釀酒以外，臺灣森林無所不在的野生釀酒酵母菌](https://research.sinica.edu.tw/saccharomyces-cerevisiae-biodiversity-taiwan/)
 

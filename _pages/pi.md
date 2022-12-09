@@ -11,7 +11,7 @@ classes: wide
 
 
 
-蔡怡陞 (Isheng Jason Tsai)，[中央研究院生物多樣性研究中心](https://www.biodiv.tw/)副研究員 (Associate Research Fellow (Professor),  Biodiversity Research Center,  Academia  Sinica)。三個小孩的爸。專長為遺傳及微生物基因體學跟洗奶瓶。喜歡臺灣的人、事、物，在實驗室角落研究並追尋迷人的微生物演化史。有寫一個每年更新一次的網誌 [Do good science](https://dogoodscience.biodiv.tw/)
+蔡怡陞 (Isheng Jason Tsai)，[中央研究院生物多樣性研究中心](https://www.biodiv.tw/)研究員 (Research Fellow (Professor),  Biodiversity Research Center,  Academia  Sinica)。三個小孩的爸。專長為遺傳及微生物基因體學跟洗奶瓶。喜歡臺灣的人、事、物，在實驗室角落研究並追尋迷人的微生物演化史。有寫一個每年更新一次的網誌 [Do good science](https://dogoodscience.biodiv.tw/)
 
 
 
@@ -46,8 +46,8 @@ classes: wide
 * [2018.10. 參加2018京都科技與社會論壇後感想–與諾貝爾獎得主跟專家們的討論](https://dogoodscience.biodiv.tw/2018/10/10/stsmeeting/)
 * [2017.09. \[guest post\] 生命科學院畢業碩士的心路歷程](https://dogoodscience.biodiv.tw/2017/10/01/dangguestpost/)
 * [2017.05. 博後五年的心路歷程](https://dogoodscience.biodiv.tw/2017/05/29/lifeofbeingapostdoc/)
-* [2016.08  碩士班到博士班的心路歷程](https://dogoodscience.biodiv.tw/2016/08/22/phdlife/)
-* [2015.09 跟大學生或是要讀博士班的人一些問題及建議](https://dogoodscience.biodiv.tw/2015/08/31/advicetostudents/)
+* [2016.08.  碩士班到博士班的心路歷程](https://dogoodscience.biodiv.tw/2016/08/22/phdlife/)
+* [2015.09. 跟大學生或是要讀博士班的人一些問題及建議](https://dogoodscience.biodiv.tw/2015/08/31/advicetostudents/)
 * [INVESTIGATOR 生物科學研發策進社群 訪問](https://investigator.tw/1593/1593-2/)
 
 ### 實驗室科研歷程
@@ -63,10 +63,10 @@ classes: wide
 * [2018.07. 實驗室三年半 – 好像要開始需要想升等前的OS](https://dogoodscience.biodiv.tw/2018/07/10/pi3yearandhalf/)
 * [2017.12. 實驗室三年了- 回台灣會後悔嗎？](https://dogoodscience.biodiv.tw/2017/12/16/pi3year/)
 * [2017.01. 實驗室兩年後 – 審視自己; 老師 or 老闆？](https://dogoodscience.biodiv.tw/2017/01/22/pi2year/)
-* [2016.07  實驗室一年半後 – 經費與傳承](https://dogoodscience.biodiv.tw/2016/07/18/pi1yearandhalf/)
-* [2015.12  實驗室一年後](https://dogoodscience.biodiv.tw/2015/12/28/pi1year/)
-* [2015.04  從 postdoc 變 PI 的四個月](https://dogoodscience.biodiv.tw/2015/04/26/pi4months/)
-* [2015.03  當PI 的第一篇](https://dogoodscience.biodiv.tw/2015/02/24/pilife1stday/)
+* [2016.07.  實驗室一年半後 – 經費與傳承](https://dogoodscience.biodiv.tw/2016/07/18/pi1yearandhalf/)
+* [2015.12.  實驗室一年後](https://dogoodscience.biodiv.tw/2015/12/28/pi1year/)
+* [2015.04.  從 postdoc 變 PI 的四個月](https://dogoodscience.biodiv.tw/2015/04/26/pi4months/)
+* [2015.03.  當PI 的第一篇](https://dogoodscience.biodiv.tw/2015/02/24/pilife1stday/)
 
 
 ### 基因體學 / 科普
