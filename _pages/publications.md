@@ -26,33 +26,33 @@ YF Lin\*, WA Liu, YC Liu, HH Lee, YR Lin, PY Yu, EH Chang, MJ Lu, CY Chiu and IJ
 
 
 
-[Evolution and diversity of bioluminescent fungi](https://link.springer.com/chapter/10.1007/978-3-031-29199-9_12)
-HM Ke, MR Lu, CC Chang, C Hsiao, JH Ou, Y Taenyama, CY Chen and IJ Tsai 
+[Evolution and diversity of bioluminescent fungi](https://link.springer.com/chapter/10.1007/978-3-031-29199-9_12)  
+HM Ke, MR Lu, CC Chang, C Hsiao, JH Ou, Y Taenyama, CY Chen and IJ Tsai   
 **Mycota 14**
 
-[Vertical and horizontal gene transfer shaped plant colonization and biomass degradation in the fungal genus *Armillaria*](https://www.nature.com/articles/s41564-023-01448-1)
-N Sahu, B Indic, J Wong-Bajracharya, Z Merényi, HM Ke, S Ahrendt, T Monk, S Kocsubé, E Drula, A Lipzen, B Bálint, B Henrissat, B Andreopoulos, FM Martin, CB Harder, D Rigling, KL Ford, GD Foster, J Pangilinan, A Papanicolaou, K Barry, K LaButti, M Virágh, M Koriabine, M Yan, R Riley, S Champramary, KL Plett, IV Grigoriev, IJ Tsai, J Slot, G Sipos, J Plett and LG Nagy (2023)
+[Vertical and horizontal gene transfer shaped plant colonization and biomass degradation in the fungal genus *Armillaria*](https://www.nature.com/articles/s41564-023-01448-1)  
+N Sahu, B Indic, J Wong-Bajracharya, Z Merényi, HM Ke, S Ahrendt, T Monk, S Kocsubé, E Drula, A Lipzen, B Bálint, B Henrissat, B Andreopoulos, FM Martin, CB Harder, D Rigling, KL Ford, GD Foster, J Pangilinan, A Papanicolaou, K Barry, K LaButti, M Virágh, M Koriabine, M Yan, R Riley, S Champramary, KL Plett, IV Grigoriev, IJ Tsai, J Slot, G Sipos, J Plett and LG Nagy (2023).  
 **Nature Microbiology** 
 
-[Single-worm long-read sequencing reveals genome diversity in free-living nematodes](https://academic.oup.com/nar/article/51/15/8035/7234520)
-YC Lee, HM Ke, YC Liu, HH Lee, MC Wang, YC Tseng, T Kikuchi and IJ Tsai*
+[Single-worm long-read sequencing reveals genome diversity in free-living nematodes](https://academic.oup.com/nar/article/51/15/8035/7234520)  
+YC Lee, HM Ke, YC Liu, HH Lee, MC Wang, YC Tseng, T Kikuchi and IJ Tsai*   
 **Nucleic Acid Research**
 
-[Detecting intragenic *trans*-splicing events from non-co-linearly spliced junctions by hybrid sequencing](https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkad623)
-YC Chen, CY Chen, TW Chiang, MH Chan, M Hsiao, HM Ke, IJ Tsai and TJ Chuang
+[Detecting intragenic *trans*-splicing events from non-co-linearly spliced junctions by hybrid sequencing](https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkad623)  
+YC Chen, CY Chen, TW Chiang, MH Chan, M Hsiao, HM Ke, IJ Tsai and TJ Chuang.  
 **Nucleic Acid Research** 
 
-[The *Aphelenchoides* genomes reveal  substantial horizontal gene transfers in the last common ancestor of  free-living and major plant-parasitic nematodes](https://onlinelibrary.wiley.com/doi/full/10.1111/1755-0998.13752)
-CK Lai, YC Lee, HM Ke, MR Lu, WA Liu, HH Lee, YC Liu, T Yoshiga, T Kikuchi, PJ Chen* and IJ Tsai*
+[The *Aphelenchoides* genomes reveal  substantial horizontal gene transfers in the last common ancestor of  free-living and major plant-parasitic nematodes](https://onlinelibrary.wiley.com/doi/full/10.1111/1755-0998.13752)   
+CK Lai, YC Lee, HM Ke, MR Lu, WA Liu, HH Lee, YC Liu, T Yoshiga, T Kikuchi, PJ Chen* and IJ Tsai*.  
 **Molecular Ecology Resources**
 
 [Investigation of asymptomatic infection of *Phellinus noxius* in herbaceous plants](https://apsjournals.apsnet.org/doi/10.1094/PHYTO-08-22-0281-R)
-CY Chen, ZC Wu, TY Lu, SS Yu, JN Tsai, YC Tsai, IJ Tsai and CL Chung
+CY Chen, ZC Wu, TY Lu, SS Yu, JN Tsai, YC Tsai, IJ Tsai and CL Chung  
 **Phytopathology**  
 
-[The mitochondrial genome of Isognomon nucleus and mitogenomics of pteriomorphia (Bivalvia: Autobranchia)](https://academic.oup.com/mollus/article/89/1/eyad003/7081373)
-N Dreyer, FMG Mattos, D Jain, CL Fong, MD Vivo, YHV Wen, YH Huang, JK Mwihaki, HH Lee, PC Tsai, YF Tsao, BKK Chan, IJ Tsai, R Machida, TY Wang and J Wang
-**Journal of Molluscan Studies** 
+[The mitochondrial genome of Isognomon nucleus and mitogenomics of pteriomorphia (Bivalvia: Autobranchia)](https://academic.oup.com/mollus/article/89/1/eyad003/7081373)  
+N Dreyer, FMG Mattos, D Jain, CL Fong, MD Vivo, YHV Wen, YH Huang, JK Mwihaki, HH Lee, PC Tsai, YF Tsao, BKK Chan, IJ Tsai, R Machida, TY Wang and J Wang  
+Journal of Molluscan Studies** 
 
 
 
