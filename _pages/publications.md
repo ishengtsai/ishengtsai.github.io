@@ -43,11 +43,27 @@ YC Lee, HM Ke, YC Liu, HH Lee, MC Wang, YC Tseng, T Kikuchi and IJ Tsai*
 
 [Detecting intragenic *trans*-splicing events from non-co-linearly spliced junctions by hybrid sequencing](https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkad623)  
 YC Chen, CY Chen, TW Chiang, MH Chan, M Hsiao, HM Ke, IJ Tsai and TJ Chuang.  
-**Nucleic Acid Research** 
+**Nucleic Acid Research**   
+[全基因體擴增技術定序無法培養的物種: 揭秘海洋線蟲的基因體多樣性](https://www.biodiv.tw/zh_research-20230824143946)
+
+
+
+![](/images/mer-cover.jpg){: .img-left}
+
+
+
+
 
 [The *Aphelenchoides* genomes reveal  substantial horizontal gene transfers in the last common ancestor of  free-living and major plant-parasitic nematodes](https://onlinelibrary.wiley.com/doi/full/10.1111/1755-0998.13752)   
 CK Lai, YC Lee, HM Ke, MR Lu, WA Liu, HH Lee, YC Liu, T Yoshiga, T Kikuchi, PJ Chen* and IJ Tsai*.  
-**Molecular Ecology Resources**
+**Molecular Ecology Resources**  
+[揭示植物寄生線蟲水平基因轉移的演化史](https://www.biodiv.tw/zh_research-20230407093347)
+
+<br>
+
+<br>
+
+
 
 [Investigation of asymptomatic infection of *Phellinus noxius* in herbaceous plants](https://apsjournals.apsnet.org/doi/10.1094/PHYTO-08-22-0281-R)
 CY Chen, ZC Wu, TY Lu, SS Yu, JN Tsai, YC Tsai, IJ Tsai and CL Chung  
