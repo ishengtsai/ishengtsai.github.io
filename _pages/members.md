@@ -8,12 +8,12 @@ classes: wide
 
 
 <div class="gallery" data-columns="3">
-	<img src="/images/members/20160825-DSC06023.jpg">
-	<img src="/images/members/DSC_3375.jpeg">
-	<img src="/images/members/20180505-DSC06964.jpg">
-	<img src="/images/members/20180807-DSC_2600.jpg">
-	<img src="/images/members/20181205-DSC_2831.jpg">
-	<img src="/images/members/20190503-DSC_3426.jpg">
+	<img src="/images/members/20160825-DSC06023-min.jpg">
+	<img src="/images/members/DSC_3375-min.jpeg">
+	<img src="/images/members/20180505-DSC06964-min.jpg">
+	<img src="/images/members/20180807-DSC_2600-min.jpg">
+	<img src="/images/members/20181205-DSC_2831-min.jpg">
+	<img src="/images/members/20190503-DSC_3426-min.jpg">
 </div>
 
 
