@@ -17,6 +17,9 @@ featured_image: /images/20150406-DSC_0582.jpg
 
 
 
+[An acidophilic fungus is integral to prey digestion in a carnivorous plant](https://www.biorxiv.org/content/10.1101/2023.11.07.566145v1)   
+PF Sun, MR Lu, YC Liu, YF Lin, DZ Hoh, HM Ke, IF Wang, MEJ Lu, R Kirschner, YCJ Lin, YL Chen and IJ Tsai.  
+
 [Genomes of keystone Mortierella species lead to better in silico prediction of soil mycobiome functions from Taiwan's offshore islands](https://www.biorxiv.org/content/10.1101/2021.12.20.473467v1)  
 YF Lin\*, WA Liu, YC Liu, HH Lee, YR Lin, PY Yu, EH Chang, MJ Lu, CY Chiu and IJ Tsai\*  
 
@@ -96,8 +99,6 @@ R Shinya, S Sun, M Dayi, IJ Tsai, A Miyama, AF Chen, K Hasegawa, I Antoshechkin,
 TJ Lee, YC Liu, WA Liu, YF Lin, HH Lee, HM Ke, JP Huang, MJ Lu, CL Hsieh, KF Chung, G Liti and IJ Tsai  
 **Genome Research**  
 [研之有物：熟悉的陌生人：做麵包、釀酒以外，臺灣森林無所不在的野生釀酒酵母菌](https://research.sinica.edu.tw/saccharomyces-cerevisiae-biodiversity-taiwan/)
-
-
 
 [Yeasts from temperate forests](https://onlinelibrary.wiley.com/doi/full/10.1002/yea.3699)  
 S Mozzachiodi, FY Bai, P Baldrian, G Bell, K Boundy-Mills, P Buzzini, N Čadež, FA Cubillos, S Dashko, R Dimitrov, KJ Fisher, B Gibson, D Gouliamova, D Greig, L Heistinger, CT Hittinger, M Jecmenica, V Koufopanou, CR Landry, T Mašínová, ES Naumova, D Opulente, JJ Peña, U Petrovič, IJ Tsai, B Turchetti, P Villarreal, A Yurkov, G Liti and P Boynton  

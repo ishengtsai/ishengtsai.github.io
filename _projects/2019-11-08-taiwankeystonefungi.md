@@ -1,5 +1,5 @@
 ---
-title: 'fungi in Taiwan'
+title: 'fungi in Taiwanese forests 闊葉林的真菌'
 subtitle: '台灣關鍵真菌物種'
 date: 2020-11-08 00:00:00
 description: Identify keystone fungi!
