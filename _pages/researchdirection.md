@@ -2,11 +2,11 @@
 title: Research 研究方向
 subtitle: 我們是一個藉由比較物種或個體間基因體 (genome)的差異，探討物種遺傳演化的實驗室。
 description: Research direction.
-featured_image: /images/lab_banner.jpg
+featured_image: /images/researchdirection/20230824145512_b69af8f141.jpeg
 classes: wide 
 ---
 
-![](/images/20190925-DSC_4529.jpg)
+![](/images/researchdirection/20190925-DSC_4529.jpg)
 
 
 
@@ -18,8 +18,9 @@ classes: wide
 * Oxford nanopore定序技術分析及相關新實驗的設計  
   
    
+  
    
-   
+
 The principal objective of our research lies in the fundamental mechanisms and evolution or pathogenicity and parasitism. We are mainly interested in fungi and nematodes that are of medical, agricultural, forestry, and Taiwan biodiversity importance.   
 
 ### Comparative population genomics of microbes in nature 
@@ -39,3 +40,7 @@ Parasitism is a common way of life and coexists with almost every species includ
 ### Bioinformatics
 
 Recognizing that important pathogens still lag far behind in terms of genome research compared to model species, we started developing informatics tools with the aim of building up genomic resources to provide analysis tools both for my own research and for the wider research community.
+
+
+
+![](/images/researchdirection/assembly.jpg)
