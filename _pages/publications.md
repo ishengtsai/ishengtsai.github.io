@@ -48,7 +48,7 @@ YC Chen, CY Chen, TW Chiang, MH Chan, M Hsiao, HM Ke, IJ Tsai and TJ Chuang.
 
 
 
-![](/images/mer-cover.jpg){: .img-left}
+![](/images/mer-cover.jpg){: .img-right}
 
 
 
@@ -149,7 +149,7 @@ EH Chang, IJ Tsai, SH Jien, GL Tian and CY Chiu
 
 ## 2020
 
-![](/images/mycena/49.cover-source.jpg){: .img-left}
+![](/images/mycena/49.cover-source.jpg){: .img-right}
 
 
 [*Mycena* genomes resolve the evolution of fungal bioluminescence](https://www.pnas.org/content/117/49/31267)  

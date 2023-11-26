@@ -10,8 +10,9 @@ classes: wide
 
 
 
-研究內容為分析第二或第三世代定序技術 (Second/Third generation sequencing) 產生的巨量基因體資訊來做物種間的比較及族群分析。   
+研究內容為分析定序技術 (Second/Third generation sequencing) 產生的巨量基因體資訊來做物種間的比較及族群分析。   
 研究材料著重於醫學，林業，農業，畜牧業，及台灣生態環境上有重要地位的真菌及線蟲。主要研究方向如下：
+
 * 亞洲環境相關的線蟲及真菌基因體研究   
 * 酵母菌的生態與演化
 * 真核病原寄生及感染動植物宿主的機制   
@@ -22,6 +23,16 @@ classes: wide
    
 
 The principal objective of our research lies in the fundamental mechanisms and evolution or pathogenicity and parasitism. We are mainly interested in fungi and nematodes that are of medical, agricultural, forestry, and Taiwan biodiversity importance.   
+
+**Can you guess which is which?**
+
+![Can you guess which is which?](/images/lab_banner.jpg)
+
+
+
+<br>
+
+
 
 ### Comparative population genomics of microbes in nature 
 Microbes can survive in almost any environment and play a major role in shaping their surroundings. Comparing genomes between and within populations of microbes allows us to understand the process of evolution of one of the most diverse and dominant life forms on earth. Additionally, insights regarding their impact on their environment or hosts such as human health can also be achieved.

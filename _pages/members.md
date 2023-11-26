@@ -45,3 +45,14 @@ classes: wide
 11. Dang Liu 劉當 \[GSB Masters student 2015-2017\] – [https://dangliu.github.io/](https://dangliu.github.io/)
 12. Tzuhao Kuo \[Research Assistant 2015-2016\] – PhD @ Helmholtz Centre for Infection Research
 13. Micky Tsai \[happy dog forever 2011-2022\]
+
+
+
+
+
+![](/images/lab_banner.jpg)
+
+
+
+
+
