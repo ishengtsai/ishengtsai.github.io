@@ -38,10 +38,10 @@ classes: wide
 4. Tom Lin \[Postdoc 2016-2022] - industry
 5. Daphne Hoh \[PhD @ TIGP Biodiversity program\] - Postdoc
 6. Tracy Lee \[PhD @ TIGP Biodiversity program] - traveling around the world
-7. Chen-Kuo Lai \[PhD @ NTU GSB program\]
+7. Chen-Kuo Lai \[PhD @ NTU GSB program\] - Postdoc
 8. Hsin-Han Lee \[RA 2018-2021] - industry
 9. Wei-An Liu \[RA 2017-2021] - industry
-10. Tzuhao Kuo \[Research Assistant 2015-2016\] – PhD @ Helmholtz Centre for Infection Research
+10. Ivy Lin \[Research Assistant 2017-2018\] – PhD candidate @ Yale University, USA
 11. Dang Liu 劉當 \[GSB Masters student 2015-2017\] – [https://dangliu.github.io/](https://dangliu.github.io/)
-12. Ivy Lin \[Research Assistant 2017-2018\] – PhD candidate @ Yale University, USA
+12. Tzuhao Kuo \[Research Assistant 2015-2016\] – PhD @ Helmholtz Centre for Infection Research
 13. Micky Tsai \[happy dog forever 2011-2022\]
