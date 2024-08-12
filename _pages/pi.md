@@ -18,9 +18,9 @@ classes: wide
 ### Positions held
 
 * 2023 - 台灣大學 [生態學與演化生物學研究所](https://ecology.lifescience.ntu.edu.tw/doku.php/zh-tw/start) 兼任教授
-* 2022 - 中研院生物多樣性中心研究員
-* 2019 – 中研院生物多樣性中心副研究員
-* 2015 – 2019 中研院生物多樣性中心助研究員
+* 2022 - [中研院生物多樣性研究中心](https://www.biodiv.tw/)研究員
+* 2019 – [中研院生物多樣性研究中心](https://www.biodiv.tw/)副研究員
+* 2015 – 2019 [中研院生物多樣性研究中心](https://www.biodiv.tw/)助研究員
 * 2015 – 台灣大學 [基因體與系統生物學學位學程](http://gsb.lifescience.ntu.edu.tw/) 核心師資 ; 合聘副教授
 * 2015 – 師範大學 生命科學系合聘副教授
 * 2013 – 2014 日本学術振興会外國人特別研究員
@@ -41,6 +41,9 @@ classes: wide
 
 ### 求學歷程
 
+* [2024.05. 如何在求學中做選擇](https://dogoodscience.biodiv.tw/2024/05/16/2024.onmakingchoices/)
+* [2024.01. 中心20週年-中心的未來演講稿](https://dogoodscience.biodiv.tw/2024/02/01/2024.brc20yranniversary/)
+* [2023.12. 給要找博士後研究的一些建議 - 擁抱現實和夢想](https://dogoodscience.biodiv.tw/2023/12/15/advicetopostdoc/)
 * [2021.11. 當初是如何學程式語言的-心路歷程跟想法](https://dogoodscience.biodiv.tw/2021/11/18/howtocode/)
 * [2020.05. 如何寫好一篇Paper](https://dogoodscience.biodiv.tw/2020/05/15/howtowriteapaper/)
 * [2019.10. 如何有效率的讀期刊論文/Paper](https://dogoodscience.biodiv.tw/2019/08/21/howtoreadapaper/)
@@ -53,7 +56,8 @@ classes: wide
 
 ### 實驗室科研歷程
 
-* [2022.11.  實驗室快八年了 - 接受與重新計劃](https://dogoodscience.biodiv.tw/2022/09/24/pi8yearsnew/)
+* [2024.01. 實驗室第九年-重新開始一個實驗室？](https://dogoodscience.biodiv.tw/2024/01/02/pi9years/)
+* [2022.11. 實驗室快八年了 - 接受與重新計劃](https://dogoodscience.biodiv.tw/2022/09/24/pi8yearsnew/)
 * [2021.11. 實驗室快七年了 - 小迷惘跟困境](https://dogoodscience.biodiv.tw/2021/11/11/pi7yearstruggle/)
 * [2021.01. 實驗室六年 - 實驗室跟自己在疫情的成長](https://dogoodscience.biodiv.tw/2021/01/14/pi6yearwithcovid/)
 * [2020.10. 實驗室裡的人 - 博士後研究的旅程](https://dogoodscience.biodiv.tw/2020/10/29/postdoc/)
@@ -64,10 +68,10 @@ classes: wide
 * [2018.07. 實驗室三年半 – 好像要開始需要想升等前的OS](https://dogoodscience.biodiv.tw/2018/07/10/pi3yearandhalf/)
 * [2017.12. 實驗室三年了- 回台灣會後悔嗎？](https://dogoodscience.biodiv.tw/2017/12/16/pi3year/)
 * [2017.01. 實驗室兩年後 – 審視自己; 老師 or 老闆？](https://dogoodscience.biodiv.tw/2017/01/22/pi2year/)
-* [2016.07.  實驗室一年半後 – 經費與傳承](https://dogoodscience.biodiv.tw/2016/07/18/pi1yearandhalf/)
-* [2015.12.  實驗室一年後](https://dogoodscience.biodiv.tw/2015/12/28/pi1year/)
-* [2015.04.  從 postdoc 變 PI 的四個月](https://dogoodscience.biodiv.tw/2015/04/26/pi4months/)
-* [2015.03.  當PI 的第一篇](https://dogoodscience.biodiv.tw/2015/02/24/pilife1stday/)
+* [2016.07. 實驗室一年半後 – 經費與傳承](https://dogoodscience.biodiv.tw/2016/07/18/pi1yearandhalf/)
+* [2015.12. 實驗室一年後](https://dogoodscience.biodiv.tw/2015/12/28/pi1year/)
+* [2015.04. 從 postdoc 變 PI 的四個月](https://dogoodscience.biodiv.tw/2015/04/26/pi4months/)
+* [2015.03. 當PI 的第一篇](https://dogoodscience.biodiv.tw/2015/02/24/pilife1stday/)
 
 
 ### 基因體學 / 科普
