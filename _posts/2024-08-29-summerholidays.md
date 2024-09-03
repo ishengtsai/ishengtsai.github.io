@@ -15,7 +15,7 @@ This summer the lab welcomed two summer interns Yo-C and En-Chen. We also welcom
 ![](/images/20240828-DSC08879.jpg){: width="70%" }
 
 
-![](/images/20240828-DSC08807.jpg){: height="50%" }
+![](/images/20240828-DSC08807.jpg){: height="30%" }
 *Audrey not sure what to do with the dirt*
 
 
