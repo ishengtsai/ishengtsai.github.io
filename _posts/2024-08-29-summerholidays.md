@@ -1,5 +1,5 @@
 ---
-title: '2024.08.Lab summer'
+title: '2024.08 Lab summer'
 date: 2024-08-29 00:00:00
 description: 2024 summer
 featured_image: '/images/20240828-DSC08803.jpg'
@@ -21,13 +21,13 @@ This summer the lab welcomed two summer interns Yo-C and En-Chen. We also welcom
 
 ![](/images/20240828-DSC08853.jpg){: width="70%" }
 
-![](/images/20240828-DSC08823.jpg){: width="70%" }
+![](/images/20240828-DSC08823.jpg){:  width="250" }
 
-![](/images/20240828-DSC08847.jpg){: width="70%" }
+![](/images/20240828-DSC08847.jpg){:  width="200" }
 
-![](/images/20240828-DSC08896.jpg){: width="70%" }
+![](/images/20240828-DSC08896.jpg){:  width="150" }
 
-![](/images/20240828-DSC08908.jpg){: width="70%" }
+![](/images/20240828-DSC08908.jpg){:  width="100" }
 
 ![](/images/20240828-DSC08912.jpg){: width="70%" }
 
