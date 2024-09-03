@@ -1,5 +1,5 @@
 ---
-title: '2024.08.Labsummer'
+title: '2024.08.Lab summer'
 date: 2024-08-29 00:00:00
 description: 2024 summer
 featured_image: '/images/20240828-DSC08803.jpg'
@@ -16,7 +16,7 @@ This summer the lab welcomed two summer interns Yo-C and En-Chen. We also welcom
 
 
 ![](/images/20240828-DSC08807.jpg){: width="40%" }
-*Audrey not sure what to do with the dirt*
+<center>Audrey not sure what to do with the dirt</center>
 
 
 ![](/images/20240828-DSC08853.jpg){: width="70%" }
