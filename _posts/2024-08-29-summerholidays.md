@@ -17,7 +17,7 @@ This summer the lab welcomed two summer interns Yo-C and En-Chen who were mentor
 ![](/images/20240828-DSC08807.jpg){: width="40%" }
 <center>Audrey not sure what to do with the dirt</center>
 
-![](/images/20240828-DSC08848.jpg){: width="40%" }
+![](/images/20240828-DSC08848.jpg){: width="75%" }
 
 ![](/images/20240828-DSC08853.jpg){: width="75%" }
 
