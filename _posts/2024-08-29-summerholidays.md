@@ -13,25 +13,23 @@ This summer the lab welcomed two summer interns Yo-C and En-Chen. We also welcom
  
 
 
-![](/images/20240828-DSC08879.jpg)
+![](/images/20240828-DSC08879.jpg){: width="50%" }
 
-![](/images/20240828-DSC08853.jpg)
+![](/images/20240828-DSC08853.jpg){: width="250" }
 
-![](/images/20240828-DSC08823.jpg)
+![](/images/20240828-DSC08823.jpg){: width="250" }
 
-![](/images/20240828-DSC08847.jpg)
+![](/images/20240828-DSC08847.jpg){: width="250" }
 
-![](/images/20240828-DSC08896.jpg)
+![](/images/20240828-DSC08896.jpg){: width="250" }
 
-![](/images/20240828-DSC08908.jpg)
+![](/images/20240828-DSC08908.jpg){: width="250" }
 
-![](/images/20240828-DSC08912.jpg)
+![](/images/20240828-DSC08912.jpg){: width="250" }
 
-![](/images/20240828-DSC08912.jpg)
+![](/images/20240828-DSC08913.jpg){: width="250" }
 
-![](/images/20240828-DSC08913.jpg)
-
-![](/images/20240829-DSC08988.jpg)
+![](/images/20240829-DSC08988.jpg){: width="250" }
 
 
 
