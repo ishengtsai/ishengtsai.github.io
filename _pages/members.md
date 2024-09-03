@@ -24,11 +24,11 @@ classes: wide
 2. Hung-Wei Chen \[Postdoc\] 
 3. Wei-Ting Jian \[MSc student @ NTU Ecology and Evolution program\]
 4. Yu-Chen Yeh \[PhD candidate @ GSB program\]
-5. Chieh Ping Lin \[Research Assistant\]
-6. Rubie Lu \[Research Assistant\]
-7. Yu-Ching Liu \[Research Assistant\]
-8. Cheng-Ju Yang \[Research Assistant\]
-
+5. Audrey Abinal \[PhD candidate @ TIGP-Biodiversity program\]
+6. Chieh Ping Lin \[Research Assistant\]
+7. Rubie Lu \[Research Assistant\]
+8. Yu-Ching Liu \[Research Assistant\]
+9. Cheng-Ju Yang \[Research Assistant\]
 10. Anna Ellie Bobby Tsai \[吉祥物\]
 
 ### Alumni
