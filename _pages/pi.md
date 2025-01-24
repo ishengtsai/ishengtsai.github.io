@@ -29,7 +29,8 @@ classes: wide
 
 
 ### Other honours and positions
-* 2024 - [國科會傑出研究獎](https://web.nstc.gov.tw/cen/oaa/award_112/Isheng%20Jason-Tsai.html)
+* 2024 - [楊祥發院士傑出農業科學年輕學者獎](https://www.facebook.com/TWSocPlantBiol/photos/%E7%82%BA%E7%B4%80%E5%BF%B5%E6%A5%8A%E7%A5%A5%E7%99%BC%E9%99%A2%E5%A3%AB%E4%B8%A6%E5%82%B3%E6%89%BF%E5%85%B6%E7%95%A2%E7%94%9F%E8%87%B4%E5%8A%9B%E6%8E%A8%E5%8B%95%E8%BE%B2%E6%A5%AD%E7%94%9F%E7%89%A9%E7%A7%91%E6%8A%80%E7%A0%94%E7%A9%B6%E7%99%BC%E5%B1%95%E6%8F%90%E6%94%9C%E5%BE%8C%E9%80%B2%E7%B2%BE%E7%A5%9E%E8%A8%AD%E7%AB%8B%E6%A5%8A%E7%A5%A5%E7%99%BC%E7%B4%80%E5%BF%B5%E6%95%99%E8%82%B2%E5%9F%BA%E9%87%91%E6%9C%83%E5%9F%BA%E9%87%91%E6%9C%83%E6%AF%8F%E5%B9%B4%E9%81%B4%E9%81%B8%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C%E5%8D%93%E8%B6%8A%E4%B8%94%E5%85%B7%E5%9C%8B%E9%9A%9B%E5%BD%B1%E9%9F%BF%E5%8A%9B%E4%B9%8B%E8%BE%B2%E6%A5%AD%E7%A7%91%E5%AD%B8%E5%AE%B6%E5%8F%8A%E8%87%BA%E7%81%A3%E8%BE%B2%E6%A5%AD%E7%A7%91%E5%AD%B8%E5%B9%B4/514061551517114/)
+* 2023 - [國科會傑出研究獎](https://web.nstc.gov.tw/cen/oaa/award_112/Isheng%20Jason-Tsai.html)
 * 2022 - Associate Editor, Yeast
 * 2020 – Associate Editor, Molecular Ecology and Molecular Ecology Resources
 * 2019 - EMBO Global investigator
@@ -56,6 +57,7 @@ classes: wide
 
 ### 實驗室科研歷程
 
+* [2024.12. 在台灣設立了實驗室十年-一些心得跟體會](https://dogoodscience.biodiv.tw/2025/01/01/lab10years/)
 * [2024.01. 實驗室第九年-重新開始一個實驗室？](https://dogoodscience.biodiv.tw/2024/01/02/pi9years/)
 * [2022.11. 實驗室快八年了 - 接受與重新計劃](https://dogoodscience.biodiv.tw/2022/09/24/pi8yearsnew/)
 * [2021.11. 實驗室快七年了 - 小迷惘跟困境](https://dogoodscience.biodiv.tw/2021/11/11/pi7yearstruggle/)
