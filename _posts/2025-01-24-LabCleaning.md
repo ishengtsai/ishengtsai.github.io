@@ -1,6 +1,6 @@
 ---
 title: '2025.01 Lab cleaning'
-date: 2024-08-29 00:00:00
+date: 2025-01-23 00:00:00
 description: 2024 summer
 featured_image: '/images/20250123-DSC03831.jpg'
 ---
