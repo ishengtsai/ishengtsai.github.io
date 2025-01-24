@@ -27,7 +27,7 @@ CH Chen, PC Liou, YF Hsu, IF Wang, CY Kuo, KH Huang, JH Yu, CW Chen, CC Wu, DG L
 ## 2025
 
 [Accurate detection of genetic sex using a qPCR-based method in the bigfin reef squid (Sepioteuthis lessoniana) ](https://www.sciencedirect.com/science/article/pii/S2352513425000304)
-YC Lee, LL Tang, YC Yeh, HW Li, CH Wang, CR Yang, HM Ke, YC Tseng, CF Chang, IJ Tsai\* and GC Wu\* 	 
+YC Lee, LL Tang, YC Yeh, HW Li, CH Wang, CR Yang, HM Ke, YC Tseng, CF Chang, IJ Tsai\* and GC Wu\* 	 \
 **Aquaculture Reports**
 
 
@@ -36,19 +36,19 @@ YC Lee, LL Tang, YC Yeh, HW Li, CH Wang, CR Yang, HM Ke, YC Tseng, CF Chang, IJ 
 
 [An acidophilic fungus promotes prey digestion in a carnivorous plant](https://www.nature.com/articles/s41564-024-01766-y)   
 PF Sun, MR Lu, YC Liu, BJP Shaw, CP Lin, HW Chen, YF Lin, DZ Hoh, HM Ke, IF Wang, MEJ Lu, EB Young, J Millett, R Kirschner, YCJ Lin, YL Chen and IJ Tsai  
-**Nature Microbiology** 	 
+**Nature Microbiology** 	 \
 [促進毛氈苔消化獵物的嗜酸真菌](https://www.biodiv.tw/zh_research-20240729151945)
 
 [Development and evaluation of real-time quantitative PCR assays for detection of Phellinus noxius causing brown root rot disease](https://apsjournals.apsnet.org/doi/abs/10.1094/PDIS-01-24-0238-RE) 
-TY Liu, CH Chen, YC Ko, ZC Wu, TZ Liao, HH Lee, IJ Tsai, TT Chang, ML Wu, JN Tsai, NB Klopfenstein, MS Kim, JE Stewart, N Atibalentja, FE Brooks, P Cannon, AM Farid, T Hattori, HS Kwan, YCR Lam, Y Ota, N Sahashi, RL Schlub, LS Shuey, AMC Tang and CL Chung 	 
+TY Liu, CH Chen, YC Ko, ZC Wu, TZ Liao, HH Lee, IJ Tsai, TT Chang, ML Wu, JN Tsai, NB Klopfenstein, MS Kim, JE Stewart, N Atibalentja, FE Brooks, P Cannon, AM Farid, T Hattori, HS Kwan, YCR Lam, Y Ota, N Sahashi, RL Schlub, LS Shuey, AMC Tang and CL Chung 	    \
 **Plant Disease**
 
 [Tracking alternative versions of the galactose gene network in the genus Saccharomyces and their expansion after domestication](https://www.cell.com/iscience/fulltext/S2589-0042(24)00208-6) 
-A Pontes, F Paraíso YC Liu, S Limtong, S Jindamorakot, L Jespersen, C Gonçalves, CA Rosa, IJ Tsai, A Rokas, CT Hittinger, P Gonçalves and JP Sampaio 	 
+A Pontes, F Paraíso YC Liu, S Limtong, S Jindamorakot, L Jespersen, C Gonçalves, CA Rosa, IJ Tsai, A Rokas, CT Hittinger, P Gonçalves and JP Sampaio 	   
 **iScience**
 
 [Potential PCR amplification bias in identifying complex ecological patterns: Higher species compositional homogeneity revealed in smaller-size coral reef zooplankton by metatranscriptomics](https://onlinelibrary.wiley.com/doi/full/10.1111/1755-0998.13911) 
-FMG Mattos, N Dreyer, CL Fong, YHV Wen, D Jain, MD Vivo, YS Huang, JK Mwihaki, TY Wang, MJ Ho, IJ Tsai, J Wang, BKK Chan and RJ Machida 	
+FMG Mattos, N Dreyer, CL Fong, YHV Wen, D Jain, MD Vivo, YS Huang, JK Mwihaki, TY Wang, MJ Ho, IJ Tsai, J Wang, BKK Chan and RJ Machida 	   
 **Molecular Ecology Resources**
 
 
