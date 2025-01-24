@@ -24,10 +24,18 @@ CH Chen, PC Liou, YF Hsu, IF Wang, CY Kuo, KH Huang, JH Yu, CW Chen, CC Wu, DG L
 
 
 
+## 2025
+
+[Accurate detection of genetic sex using a qPCR-based method in the bigfin reef squid (Sepioteuthis lessoniana) ](https://www.sciencedirect.com/science/article/pii/S2352513425000304)
+YC Lee, LL Tang, YC Yeh, HW Li, CH Wang, CR Yang, HM Ke, YC Tseng, CF Chang, IJ Tsai\* and GC Wu\* 
+**Aquaculture Reports**
+
+
+
 ## 2024
 
 [An acidophilic fungus promotes prey digestion in a carnivorous plant](https://www.nature.com/articles/s41564-024-01766-y)   
-PF Sun, MR Lu, YC Liu, BJP Shaw, CP Lin, HW Chen, YF Lin, DZ Hoh, HM Ke, IF Wang, MEJ Lu, EB Young, J Millett, R Kirschner, YCJ Lin, YL Chen and IJ Tsai.  
+PF Sun, MR Lu, YC Liu, BJP Shaw, CP Lin, HW Chen, YF Lin, DZ Hoh, HM Ke, IF Wang, MEJ Lu, EB Young, J Millett, R Kirschner, YCJ Lin, YL Chen and IJ Tsai  
 **Nature Microbiology** 
 [促進毛氈苔消化獵物的嗜酸真菌](https://www.biodiv.tw/zh_research-20240729151945)
 
