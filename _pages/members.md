@@ -27,7 +27,7 @@ classes: wide
 ### Alumni
 
 1. Huei-Mien Ke \[Founding and forever member of B303] [Assistant Professor](https://microbiology.scu.edu.tw/member/7) @ Soochow University, Taiwan
-2. Yi-Chien Lee \[PhD @ TIGP Biodiversity program\] - Postdoc
+2. Yi-Chien Lee \[PhD @ TIGP Biodiversity program; Postdoc\] - Postdoc [https://yichienlee1010.github.io/](https://yichienlee1010.github.io/)
 3. Rubie Lu \[GSB Masters student; Research Assistant\] - Academia
 4. Pei-Wei Sun \[Research Assistant 2023\] PhD candidate @ Yale University, USA
 5. Hsiao Chen \[Research Assistant 2022-2023\] PhD candidate @ UC San Diego, USA
