@@ -30,7 +30,7 @@ CH Chen, PC Liou, YF Hsu, IF Wang, CY Kuo, KH Huang, JH Yu, CW Chen, CC Wu, DG L
 CP Lin, YF Lin, YC Liu, MYJ Lu, HM Ke and IJ Tsai\*  
 **Environmental Microbiome**  
 
-[Accurate detection of genetic sex using a qPCR-based method in the bigfin reef squid (Sepioteuthis lessoniana) ](https://www.sciencedirect.com/science/article/pii/S2352513425000304)
+[Accurate detection of genetic sex using a qPCR-based method in the bigfin reef squid (Sepioteuthis lessoniana) ](https://www.sciencedirect.com/science/article/pii/S2352513425000304)  
 YC Lee, LL Tang, YC Yeh, HW Li, CH Wang, CR Yang, HM Ke, YC Tseng, CF Chang, IJ Tsai\* and GC Wu\* 	 \
 **Aquaculture Reports**
 
@@ -47,7 +47,7 @@ PF Sun, MR Lu, YC Liu, BJP Shaw, CP Lin, HW Chen, YF Lin, DZ Hoh, HM Ke, IF Wang
 TY Liu, CH Chen, YC Ko, ZC Wu, TZ Liao, HH Lee, IJ Tsai, TT Chang, ML Wu, JN Tsai, NB Klopfenstein, MS Kim, JE Stewart, N Atibalentja, FE Brooks, P Cannon, AM Farid, T Hattori, HS Kwan, YCR Lam, Y Ota, N Sahashi, RL Schlub, LS Shuey, AMC Tang and CL Chung 	    \
 **Plant Disease**
 
-[Tracking alternative versions of the galactose gene network in the genus Saccharomyces and their expansion after domestication](https://www.cell.com/iscience/fulltext/S2589-0042(24)00208-6) 
+[Tracking alternative versions of the galactose gene network in the genus Saccharomyces and their expansion after domestication](https://www.cell.com/iscience/fulltext/S2589-0042(24)00208-6)  \
 A Pontes, F Paraíso YC Liu, S Limtong, S Jindamorakot, L Jespersen, C Gonçalves, CA Rosa, IJ Tsai, A Rokas, CT Hittinger, P Gonçalves and JP Sampaio 	   
 **iScience**
 
