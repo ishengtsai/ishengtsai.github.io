@@ -7,7 +7,7 @@ classes: wide
 ---
 
 
-![](/images/researchdirection/20250321-DSC05889.jpg)
+![](/images/20250321-DSC05889.jpg)
 2025.03
 
 
