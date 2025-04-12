@@ -26,6 +26,10 @@ CH Chen, PC Liou, YF Hsu, IF Wang, CY Kuo, KH Huang, JH Yu, CW Chen, CC Wu, DG L
 
 ## 2025
 
+[Spatiotemporal heterogeneity of fungal communities in above-ground habitats of tropical Fagaceae forests Environmental Microbiome](https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-025-00683-9)   
+CP Lin, YF Lin, YC Liu, MYJ Lu, HM Ke and IJ Tsai\*  
+**Environmental Microbiome**  
+
 [Accurate detection of genetic sex using a qPCR-based method in the bigfin reef squid (Sepioteuthis lessoniana) ](https://www.sciencedirect.com/science/article/pii/S2352513425000304)
 YC Lee, LL Tang, YC Yeh, HW Li, CH Wang, CR Yang, HM Ke, YC Tseng, CF Chang, IJ Tsai\* and GC Wu\* 	 \
 **Aquaculture Reports**
