@@ -55,9 +55,22 @@ To effectively resolve complex genomic challenges, our lab actively develops and
   
    
 
-**Our species - Can you guess which is which?**
+**The species that we studied - can you guess which is which?**
 
 ![Can you guess which is which?](/images/lab_banner.jpg)
+
+
+From left to right:
+1. *Saccharomyces cerevisiae*
+2. *Fusarium keratoplasticum* and *Fusarium falciforme*
+3. *Acrodontium crateriforme*
+4. All the microbes in Fagaceae trees
+5. Human gut
+6. *Bursaphelenchus xylophilus*
+7. *Aphelenchoides besseyi* species complex
+8. Free-living marine nematodes
+9. Us.
+
 
 
 
