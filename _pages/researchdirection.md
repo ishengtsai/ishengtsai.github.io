@@ -9,7 +9,7 @@ classes: wide
 ![](/images/researchdirection/assembly.jpg)
 
 
-我們的研究聚焦於利用基因體學的工具，探索微生物在自然界中演化與適應的奧秘。實驗室長期關注的對象包括真菌、酵母菌（特別是Saccharomyces屬）、食蟲植物與其共生微生物，以及其他與台灣環境（從森林到海底到人體）息息相關的真核微生物。我們特別擅長運用Oxford Nanopore Technologies（ONT）等第三代定序技術，透過長讀序列的優勢解析複雜基因體與遺傳調控機制，致力於回答基因組層面的生態與演化問題。
+我們的研究聚焦於利用基因體學的工具，探索微生物在自然界中演化與適應的奧秘。實驗室長期關注的對象包括真菌、酵母菌（特別是Saccharomyces屬）、食蟲植物與其共生微生物，以及其他與亞洲環境（從森林到海底到人體）息息相關的真核微生物。我們特別擅長運用Oxford Nanopore Technologies（ONT）等第三代定序技術，透過長讀序列的優勢解析複雜基因體與遺傳調控機制，致力於回答基因組層面的生態與演化問題。
 
 Our research focuses on utilising omic tools to explore the microognism evolution and adaptation in nature. We have long-standing interests in fungi, yeast (particularly the genus Saccharomyces), carnivorous plants and their symbiotic microorganisms, as well as other eukaryotic microbes closely related to Asia's environment. We are particularly interested in applying third-generation sequencing technologies, such as Oxford Nanopore Technologies (ONT), to leverage the advantages of long-read sequencing for quantifying diversity at various timescales (comparative, population and communities), aiming to address ecological and evolutionary questions at the genomic level.
 
@@ -64,7 +64,7 @@ From left to right:
 1. *Saccharomyces cerevisiae*
 2. *Fusarium keratoplasticum* and *Fusarium falciforme*
 3. *Acrodontium crateriforme*
-4. All the microbes in Fagaceae trees
+4. Tropical broadleaf forests
 5. Human gut
 6. *Bursaphelenchus xylophilus*
 7. *Aphelenchoides besseyi* species complex
