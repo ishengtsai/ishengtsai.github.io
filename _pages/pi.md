@@ -77,7 +77,7 @@ classes: wide
 
 
 ### 基因體學 / 科普
-
+* [新型資料的研究方法，用基因、聲音、AI探索生物多樣性新篇章！](https://www.sancode.org.tw/activities_info.php?type=3&nid=421)
 * [大自然雜誌146期 釀酒酵母在臺灣](http://www.swan.org.tw/magazineshow.php?mid=3164)
 * [2022.05.熟悉的陌生人：做麵包、釀酒以外，臺灣森林無所不在的野生釀酒酵母菌](https://research.sinica.edu.tw/saccharomyces-cerevisiae-biodiversity-taiwan/) From [研之有物](https://research.sinica.edu.tw/)
 * [2021.03. 基因體學裡的愛恨情仇 - 你所不知道的大航海時代。我們該何去何從?](https://ishengtsai.blogspot.com/2021/03/blog-post.html)
