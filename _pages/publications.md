@@ -15,6 +15,12 @@ featured_image: /images/20150406-DSC_0582.jpg
 
 ## preprint
 
+[Eco-genomic analysis uncovers precision-conservation targets for the western Pacific’s southernmost salmonid
+](https://www.biorxiv.org/content/10.1101/2025.09.09.675276v1)  YC Lee,  ZY Shen, WR Lin,  TY Wang, M Liu YC Yeh, SF Chan, MYJ Lu, HY Wang, LY Liao, WH Li, JP Huang\*, IJ Tsai\* and SF Shen\*
+
+[A global synthesis of yeast in microbiomes](https://www.biorxiv.org/content/10.64898/2025.12.17.695015v1) CP Lin, A Geroldi, N Selem, G Liti\* and IJ Tsai\*
+
+[Dynamic evolution of AT-rich isochores shapes the genome of an intertidal fungus Annulohypoxylon annulatoides](https://www.biorxiv.org/content/10.64898/2025.12.16.694779v1) CY TU Kuo, YC Liu, CJ Yang, CP Lin, HW Chen, HM Hsieh, YM Ju, TH Liu, YC Lee\* and IJ Tsai\*
 
 [Genomes of keystone Mortierella species lead to better in silico prediction of soil mycobiome functions from Taiwan's offshore islands](https://www.biorxiv.org/content/10.1101/2021.12.20.473467v1)  
 YF Lin\*, WA Liu, YC Liu, HH Lee, YR Lin, PY Yu, EH Chang, MJ Lu, CY Chiu and IJ Tsai\*  
