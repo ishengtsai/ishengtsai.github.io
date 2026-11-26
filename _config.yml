@@ -115,7 +115,52 @@ exclude:
   - _pages/2026.11.26.v04.Lab_Contact.html
   - 2026.11.26.v10.Jekyll_Configuration.yml
 
-lab_header: 2026.11.26.v04.Lab_Header.html
+  - _pages/pi.md
+  - _pages/2026.11.26.v06.Lab_Publications.html
+  - 2026.11.26.v11.Jekyll_Configuration.yml
+
+  - _pages/2026.11.26.v07.Lab_Publications.html
+  - 2026.11.26.v12.Jekyll_Configuration.yml
+
+  - _pages/2026.11.26.v08.Lab_Publications.html
+  - 2026.11.26.v13.Jekyll_Configuration.yml
+
+  - _pages/2026.11.26.v06.Lab_People.html
+  - 2026.11.26.v14.Jekyll_Configuration.yml
+
+  - _pages/2026.11.26.v07.Lab_People.html
+  - _pages/2026.11.26.v06.Lab_Homepage.html
+  - _pages/2026.11.26.v09.Lab_Publications.html
+  - 2026.11.26.v15.Jekyll_Configuration.yml
+
+  - _pages/2026.11.26.v07.Lab_Homepage.html
+  - _pages/2026.11.26.v10.Lab_Publications.html
+  - 2026.11.26.v16.Jekyll_Configuration.yml
+
+  - _pages/2026.11.26.v08.Lab_Homepage.html
+  - _pages/2026.11.26.v11.Lab_Publications.html
+  - _pages/2026.11.26.v08.Lab_People.html
+  - 2026.11.26.v17.Jekyll_Configuration.yml
+
+  - _pages/2026.11.26.v12.Lab_Publications.html
+  - _pages/2026.11.26.v05.Lab_Research.html
+  - 2026.11.26.v18.Jekyll_Configuration.yml
+
+  - 2026.11.26.v19.Jekyll_Configuration.yml
+
+  - _pages/2026.11.26.v09.Lab_Homepage.html
+  - _pages/2026.11.26.v06.Lab_Research.html
+  - _pages/2026.11.26.v09.Lab_People.html
+  - _pages/2026.11.26.v13.Lab_Publications.html
+  - _pages/2026.11.26.v05.Lab_Resources.html
+  - _pages/2026.11.26.v05.Lab_Life.html
+  - _pages/2026.11.26.v05.Lab_Contact.html
+  - 2026.11.26.v20.Jekyll_Configuration.yml
+
+  - _pages/2026.11.26.v01.Lab_Principal_Investigator.md
+  - 2026.11.26.v21.Jekyll_Configuration.yml
+
+lab_header: 2026.11.26.v07.Lab_Header.html
 lab_footer: 2026.11.26.v02.Lab_Footer.html
-lab_stylesheet: /assets/css/2026.11.26.v07.Lab_Website.css
-lab_script: /assets/js/2026.11.26.v08.Lab_Website.js
+lab_stylesheet: /assets/css/2026.11.26.v14.Lab_Website.css
+lab_script: /assets/js/2026.11.26.v09.Lab_Website.js
