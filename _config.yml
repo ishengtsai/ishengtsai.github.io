@@ -160,7 +160,10 @@ exclude:
   - _pages/2026.11.26.v01.Lab_Principal_Investigator.md
   - 2026.11.26.v21.Jekyll_Configuration.yml
 
+  - _pages/2026.11.26.v06.Lab_Contact.html
+  - 2026.11.26.v22.Jekyll_Configuration.yml
+
 lab_header: 2026.11.26.v07.Lab_Header.html
 lab_footer: 2026.11.26.v02.Lab_Footer.html
-lab_stylesheet: /assets/css/2026.11.26.v14.Lab_Website.css
+lab_stylesheet: /assets/css/2026.11.26.v15.Lab_Website.css
 lab_script: /assets/js/2026.11.26.v09.Lab_Website.js
