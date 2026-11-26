@@ -185,8 +185,15 @@ exclude:
   - 2026.11.26.v32.Jekyll_Configuration.yml
   - _pages/2026.11.26.v11.Lab_Homepage.html
   - 2026.11.26.v33.Jekyll_Configuration.yml
+  - _pages/2026.11.26.v15.Lab_People.html
+  - _pages/2026.11.26.v12.Lab_Homepage.html
+  - _pages/2026.11.26.v08.Lab_Life.html
+  - 2026.11.26.v34.Jekyll_Configuration.yml
+  - _pages/2026.11.26.v13.Lab_Homepage.html
+  - _pages/2026.11.26.v09.Lab_Life.html
+  - 2026.11.26.v35.Jekyll_Configuration.yml
 
 lab_header: 2026.11.26.v09.Lab_Header.html
 lab_footer: 2026.11.26.v02.Lab_Footer.html
-lab_stylesheet: /assets/css/2026.11.26.v22.Lab_Website.css
+lab_stylesheet: /assets/css/2026.11.26.v23.Lab_Website.css
 lab_script: /assets/js/2026.11.26.v11.Lab_Website.js
