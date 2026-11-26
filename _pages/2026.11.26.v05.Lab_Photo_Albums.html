@@ -1,0 +1,9 @@
+---
+layout: 2026.11.26.v04.Lab_Website
+title: Lab photo albums — Tsai Lab
+permalink: /blog/
+nav_section: lab-life
+---
+<div class="wrap breadcrumb"><a href="{{ '/' | relative_url }}">Home</a><span>/</span><a href="{{ '/lab-life/' | relative_url }}">Lab life</a></div>
+<section class="wrap page-intro"><div><p class="eyebrow">Lab life</p><h1>Lab photo albums</h1></div><div><p>Photographs from lab activities and time together.</p></div></section>
+<div class="wrap"><div class="legacy-content"><div class="album-grid">{% for post in site.posts %}<article><a href="{{ post.url | relative_url }}"><img src="{{ post.featured_image | relative_url }}" alt="{{ post.title | escape }}" loading="lazy"></a><p class="eyebrow">{{ post.date | date: '%B %Y' }}</p><h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2></article>{% endfor %}</div></div></div>

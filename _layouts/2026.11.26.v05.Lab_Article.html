@@ -1,0 +1,6 @@
+---
+layout: 2026.11.26.v04.Lab_Website
+---
+<div class="wrap breadcrumb" aria-label="Breadcrumb"><a href="{{ '/' | relative_url }}">Home</a><span aria-hidden="true">/</span>{% if page.collection == 'posts' %}<a href="{{ '/lab-life/' | relative_url }}">Lab life</a>{% elsif page.nav_section == 'people' %}<a href="{{ '/members/' | relative_url }}">People</a>{% else %}<a href="{{ '/researchdirection/' | relative_url }}">Research</a>{% endif %}</div>
+<section class="wrap page-intro"><div><p class="eyebrow">Tsai Lab{% if page.collection == 'posts' %} · {{ page.date | date: '%-d %B %Y' }}{% endif %}</p><h1>{{ page.title }}</h1></div>{% if page.subtitle %}<div><p class="lead">{{ page.subtitle }}</p></div>{% endif %}</section>
+<div class="wrap"><article class="legacy-content">{{ content }}<p class="legacy-return"><a href="{{ '/' | relative_url }}">Return to the Tsai Lab homepage</a></p></article></div>

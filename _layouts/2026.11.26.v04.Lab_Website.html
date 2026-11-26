@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page.title | escape }}</title>
+<meta name="description" content="{{ page.description | default: site.description | escape }}">
+{% if site.local_preview %}<meta name="robots" content="noindex,nofollow">{% else %}<link rel="canonical" href="{{ page.url | absolute_url }}">{% endif %}
+<link rel="stylesheet" href="{{ site.lab_stylesheet | relative_url }}">
+<script src="{{ site.lab_script | relative_url }}" defer></script>
+{% if jekyll.environment == 'production' and site.local_preview != true and site.google_analytics %}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','{{ site.google_analytics }}');</script>
+{% endif %}
+</head>
+<body id="top">
+<a class="skip" href="#main">Skip to content</a>
+{% if site.local_preview %}<div class="preview">LOCAL PREVIEW · TSAI LAB WEBSITE · 26 NOVEMBER 2026</div>{% endif %}
+{% include {{ site.lab_header }} %}
+<main id="main">{{ content }}</main>
+{% include {{ site.lab_footer }} %}
+</body>
+</html>
