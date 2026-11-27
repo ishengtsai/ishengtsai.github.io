@@ -192,6 +192,14 @@ exclude:
   - _pages/2026.11.26.v13.Lab_Homepage.html
   - _pages/2026.11.26.v09.Lab_Life.html
   - 2026.11.26.v35.Jekyll_Configuration.yml
+  - _pages/2026.11.26.v14.Lab_Homepage.html
+  - _pages/2026.11.26.v07.Lab_Research.html
+  - _pages/2026.11.26.v16.Lab_People.html
+  - _pages/2026.11.26.v15.Lab_Publications.html
+  - _pages/2026.11.26.v06.Lab_Resources.html
+  - _pages/2026.11.26.v10.Lab_Life.html
+  - _pages/2026.11.26.v07.Lab_Contact.html
+  - 2026.11.27.v01.Jekyll_Configuration.yml
 
 lab_header: 2026.11.26.v09.Lab_Header.html
 lab_footer: 2026.11.26.v02.Lab_Footer.html
