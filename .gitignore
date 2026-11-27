@@ -1,0 +1,9 @@
+# Local version archive and build output
+/_archive/
+/_site/
+/.jekyll-cache/
+/_cache/
+/zz_backup/
+
+# Finder metadata
+.DS_Store

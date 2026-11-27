@@ -33,11 +33,6 @@ defaults:
     values:
       layout: 2026.11.26.v05.Lab_Article
       nav_section: lab-life
-  - scope:
-      path: _pages/pi.md
-    values:
-      layout: 2026.11.26.v05.Lab_Article
-      nav_section: people
 markdown: kramdown
 kramdown:
   input: GFM
@@ -45,15 +40,8 @@ kramdown:
 plugins:
   - jekyll-sitemap
 google_analytics: G-6RX3MPLW09
+# Local archives and build files are never published.
 exclude:
-  - index.html
-  - 404.html
-  - blog/index.html
-  - _pages/contact.md
-  - _pages/members.md
-  - _pages/publications.md
-  - _pages/researchdirection.md
-  - _pages/thanks.md
   - css
   - js
   - zz_backup
@@ -63,143 +51,10 @@ exclude:
   - 2026.11.26.v01.Jekyll_Dependencies.rb
   - 2026.11.26.v01.Jekyll_Integration_Guide.md
   - 2026.11.26.v01.Lab_Image_Manifest.json
-  - 2026.11.26.v01.Jekyll_Configuration.yml
-  - 2026.11.26.v02.Jekyll_Configuration.yml
-  - _pages/2026.11.26.v01.Lab_Homepage.html
-  - _pages/2026.11.26.v01.Lab_People.html
-  - _pages/2026.11.26.v01.Lab_Publications.html
-  - _pages/2026.11.26.v01.Lab_Photo_Albums.html
-  - _pages/2026.11.26.v01.Lab_Not_Found.html
-  - _pages/2026.11.26.v02.Lab_Homepage.html
-  - _pages/2026.11.26.v01.Lab_Research.html
-  - _pages/2026.11.26.v02.Lab_People.html
-  - _pages/2026.11.26.v02.Lab_Publications.html
-  - _pages/2026.11.26.v01.Lab_Resources.html
-  - _pages/2026.11.26.v01.Lab_Life.html
-  - _pages/2026.11.26.v01.Lab_Contact.html
-  - _pages/2026.11.26.v02.Lab_Photo_Albums.html
-  - _pages/2026.11.26.v02.Lab_Not_Found.html
-  - 2026.11.26.v03.Jekyll_Configuration.yml
-  - _pages/2026.11.26.v03.Lab_Homepage.html
-  - _pages/2026.11.26.v02.Lab_Research.html
-  - _pages/2026.11.26.v03.Lab_People.html
-  - _pages/2026.11.26.v03.Lab_Publications.html
-  - _pages/2026.11.26.v02.Lab_Resources.html
-  - _pages/2026.11.26.v02.Lab_Life.html
-  - _pages/2026.11.26.v02.Lab_Contact.html
-  - _pages/2026.11.26.v03.Lab_Photo_Albums.html
-  - _pages/2026.11.26.v03.Lab_Not_Found.html
-  - 2026.11.26.v04.Jekyll_Configuration.yml
-  - 2026.11.26.v05.Jekyll_Configuration.yml
-  - 2026.11.26.v06.Jekyll_Configuration.yml
-  - 2026.11.26.v07.Jekyll_Configuration.yml
-  - 2026.11.26.v08.Jekyll_Configuration.yml
-
-  - _pages/2026.11.26.v04.Lab_Homepage.html
-  - _pages/2026.11.26.v03.Lab_Research.html
-  - _pages/2026.11.26.v04.Lab_People.html
-  - _pages/2026.11.26.v04.Lab_Publications.html
-  - _pages/2026.11.26.v03.Lab_Resources.html
-  - _pages/2026.11.26.v03.Lab_Life.html
-  - _pages/2026.11.26.v03.Lab_Contact.html
-  - _pages/2026.11.26.v04.Lab_Photo_Albums.html
-  - _pages/2026.11.26.v04.Lab_Not_Found.html
-  - 2026.11.26.v09.Jekyll_Configuration.yml
-
-  - _pages/2026.11.26.v05.Lab_Homepage.html
-  - _pages/2026.11.26.v04.Lab_Research.html
-  - _pages/2026.11.26.v05.Lab_People.html
-  - _pages/2026.11.26.v05.Lab_Publications.html
-  - _pages/2026.11.26.v04.Lab_Resources.html
-  - _pages/2026.11.26.v04.Lab_Life.html
-  - _pages/2026.11.26.v04.Lab_Contact.html
-  - 2026.11.26.v10.Jekyll_Configuration.yml
-
-  - _pages/pi.md
-  - _pages/2026.11.26.v06.Lab_Publications.html
-  - 2026.11.26.v11.Jekyll_Configuration.yml
-
-  - _pages/2026.11.26.v07.Lab_Publications.html
-  - 2026.11.26.v12.Jekyll_Configuration.yml
-
-  - _pages/2026.11.26.v08.Lab_Publications.html
-  - 2026.11.26.v13.Jekyll_Configuration.yml
-
-  - _pages/2026.11.26.v06.Lab_People.html
-  - 2026.11.26.v14.Jekyll_Configuration.yml
-
-  - _pages/2026.11.26.v07.Lab_People.html
-  - _pages/2026.11.26.v06.Lab_Homepage.html
-  - _pages/2026.11.26.v09.Lab_Publications.html
-  - 2026.11.26.v15.Jekyll_Configuration.yml
-
-  - _pages/2026.11.26.v07.Lab_Homepage.html
-  - _pages/2026.11.26.v10.Lab_Publications.html
-  - 2026.11.26.v16.Jekyll_Configuration.yml
-
-  - _pages/2026.11.26.v08.Lab_Homepage.html
-  - _pages/2026.11.26.v11.Lab_Publications.html
-  - _pages/2026.11.26.v08.Lab_People.html
-  - 2026.11.26.v17.Jekyll_Configuration.yml
-
-  - _pages/2026.11.26.v12.Lab_Publications.html
-  - _pages/2026.11.26.v05.Lab_Research.html
-  - 2026.11.26.v18.Jekyll_Configuration.yml
-
-  - 2026.11.26.v19.Jekyll_Configuration.yml
-
-  - _pages/2026.11.26.v09.Lab_Homepage.html
-  - _pages/2026.11.26.v06.Lab_Research.html
-  - _pages/2026.11.26.v09.Lab_People.html
-  - _pages/2026.11.26.v13.Lab_Publications.html
-  - _pages/2026.11.26.v05.Lab_Resources.html
-  - _pages/2026.11.26.v05.Lab_Life.html
-  - _pages/2026.11.26.v05.Lab_Contact.html
-  - 2026.11.26.v20.Jekyll_Configuration.yml
-
-  - _pages/2026.11.26.v01.Lab_Principal_Investigator.md
-  - 2026.11.26.v21.Jekyll_Configuration.yml
-
-  - _pages/2026.11.26.v06.Lab_Contact.html
-  - 2026.11.26.v22.Jekyll_Configuration.yml
-
-  - _pages/2026.11.26.v10.Lab_People.html
-  - 2026.11.26.v23.Jekyll_Configuration.yml
-
-  - _pages/2026.11.26.v11.Lab_People.html
-  - 2026.11.26.v24.Jekyll_Configuration.yml
-  - _pages/2026.11.26.v12.Lab_People.html
-  - 2026.11.26.v25.Jekyll_Configuration.yml
-  - _pages/2026.11.26.v13.Lab_People.html
-  - 2026.11.26.v26.Jekyll_Configuration.yml
-  - _pages/2026.11.26.v14.Lab_People.html
-  - 2026.11.26.v27.Jekyll_Configuration.yml
-  - _pages/2026.11.26.v06.Lab_Life.html
-  - 2026.11.26.v28.Jekyll_Configuration.yml
-  - 2026.11.26.v29.Jekyll_Configuration.yml
-  - 2026.11.26.v30.Jekyll_Configuration.yml
-  - _pages/2026.11.26.v07.Lab_Life.html
-  - _pages/2026.11.26.v14.Lab_Publications.html
-  - 2026.11.26.v31.Jekyll_Configuration.yml
-  - _pages/2026.11.26.v10.Lab_Homepage.html
-  - 2026.11.26.v32.Jekyll_Configuration.yml
-  - _pages/2026.11.26.v11.Lab_Homepage.html
-  - 2026.11.26.v33.Jekyll_Configuration.yml
-  - _pages/2026.11.26.v15.Lab_People.html
-  - _pages/2026.11.26.v12.Lab_Homepage.html
-  - _pages/2026.11.26.v08.Lab_Life.html
-  - 2026.11.26.v34.Jekyll_Configuration.yml
-  - _pages/2026.11.26.v13.Lab_Homepage.html
-  - _pages/2026.11.26.v09.Lab_Life.html
-  - 2026.11.26.v35.Jekyll_Configuration.yml
-  - _pages/2026.11.26.v14.Lab_Homepage.html
-  - _pages/2026.11.26.v07.Lab_Research.html
-  - _pages/2026.11.26.v16.Lab_People.html
-  - _pages/2026.11.26.v15.Lab_Publications.html
-  - _pages/2026.11.26.v06.Lab_Resources.html
-  - _pages/2026.11.26.v10.Lab_Life.html
-  - _pages/2026.11.26.v07.Lab_Contact.html
-  - 2026.11.27.v01.Jekyll_Configuration.yml
+  - _archive
+  - .jekyll-cache
+  - _cache
+  - _site
 
 lab_header: 2026.11.26.v09.Lab_Header.html
 lab_footer: 2026.11.26.v02.Lab_Footer.html
